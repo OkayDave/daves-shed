@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDsPropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.daveshed.random-wallpaper</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/dave/code/daves-shed/bin/random-wallpaper.zsh</string>
+  </array>
+
+  <key>StartInterval</key>
+  <integer>1800</integer>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>StandardOutPath</key>
+  <string>/tmp/com.daveshed.random-wallpaper.out</string>
+
+  <key>StandardErrorPath</key>
+  <string>/tmp/com.daveshed.random-wallpaper.err</string>
+</dict>
+</plist>
