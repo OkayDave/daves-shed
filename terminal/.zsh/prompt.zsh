@@ -41,10 +41,9 @@ kube_prompt_info() {
       ;;
   esac
 
-  prompt_text="[⎈ $short_ctx:$namespace"
+  prompt_text="☸ $short_ctx:$namespace"
   [[ -n "$pod" ]] && prompt_text="${prompt_text}:$pod"
   [[ -n "$container" ]] && prompt_text="${prompt_text}/$container"
-  prompt_text="${prompt_text}]"
 
   KUBE_PROMPT="%F{$colour}${prompt_text}%f"
 }
@@ -59,13 +58,20 @@ zsh_command_time_preexec() {
   timer=$EPOCHREALTIME
 }
 zsh_command_time_precmd() {
+  local exit_status=$?
   if [ $timer ]; then
     local now=$EPOCHREALTIME
     local d=$((now - timer))
-    cmd_duration="$(printf "%.2fs" $d)"
+    cmd_duration="⏳ $(printf "%.2fs" $d)"
     unset timer
   else
     cmd_duration=""
+  fi
+
+  if [[ $exit_status -ne 0 ]]; then
+    exit_info="%F{red}⚠️ $exit_status%f "
+  else
+    exit_info=""
   fi
 }
 add-zsh-hook preexec zsh_command_time_preexec
@@ -76,13 +82,23 @@ autoload -Uz vcs_info
 zstyle ':vcs_info:*' check-for-changes true
 zstyle ':vcs_info:*' unstagedstr '*'
 zstyle ':vcs_info:*' stagedstr '+'
-zstyle ':vcs_info:git:*' formats '(%b)' '%u%c'
-zstyle ':vcs_info:git:*' actionformats '(%b)' '%u%c' '<%a>'
+zstyle ':vcs_info:git:*' formats '🌿 (%b)' '%u%c'
+zstyle ':vcs_info:git:*' actionformats '🌿 (%b)' '%u%c' '<%a>'
 add-zsh-hook precmd vcs_info
 
 setopt prompt_subst
 
-PROMPT="
-%F{red}%~%f %F{yellow}%B\${vcs_info_msg_0_}%b%f%F{magenta}%B\${vcs_info_msg_1_}%b%f \${KUBE_PROMPT}
-%F{cyan}%D%f %F{cyan}%*%f %B\${cmd_duration}%b %# "
-# < PROMPT
+# Left and Right Prompt: Directory, Git, Kube on left; Date/Time, Duration on right
+# We handle this in a precmd hook to align RPROMPT content to the first line of a multi-line prompt
+build_prompt() {
+  local left_part="%F{cyan}📂 %~%f %F{yellow}%B${vcs_info_msg_0_}%b%f%F{magenta}%B${vcs_info_msg_1_}%b%f %B${KUBE_PROMPT}%b"
+  local right_part="%F{8} 📅 %D %*%f %F{yellow}%B ${cmd_duration}%b%f ${exit_info}"
+
+  PROMPT="
+${left_part}
+%B%#%b "
+
+  RPROMPT="${right_part}"
+}
+
+add-zsh-hook precmd build_prompt
