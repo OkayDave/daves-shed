@@ -11,7 +11,7 @@ if [[ ! -d "${WALLPAPER_DIR}" ]]; then
 fi
 
 wallpapers=(
-  "${WALLPAPER_DIR}"/*(.N)
+  "${WALLPAPER_DIR}"/*.{jpg,jpeg,png,webp,heic}(.N)
 )
 
 if (( ${#wallpapers[@]} == 0 )); then
@@ -19,20 +19,22 @@ if (( ${#wallpapers[@]} == 0 )); then
   exit 1
 fi
 
-selected_wallpaper="${wallpapers[RANDOM % ${#wallpapers[@]} + 1]}"
+# Join wallpapers with a special delimiter for AppleScript to split on
+wallpaper_list_string="${(j:|:)wallpapers}"
 
 osascript <<APPLESCRIPT
-tell application "Finder"
-  set desktop picture to POSIX file "${selected_wallpaper}"
-end tell
+set wallpaperString to "${wallpaper_list_string}"
+set oldDelimiters to AppleScript's text item delimiters
+set AppleScript's text item delimiters to "|"
+set wallpaperList to text items of wallpaperString
+set AppleScript's text item delimiters to oldDelimiters
 
 tell application "System Events"
-  tell every desktop
-    set picture to POSIX file "${selected_wallpaper}"
-  end tell
+  set desktopCount to count of desktops
+  repeat with i from 1 to desktopCount
+    set randomIndex to random number from 1 to (count of wallpaperList)
+    set selectedWallpaper to item randomIndex of wallpaperList
+    set picture of desktop i to POSIX file selectedWallpaper
+  end repeat
 end tell
 APPLESCRIPT
-
-killall Dock >/dev/null 2>&1 || true
-
-echo "Wallpaper set to: ${selected_wallpaper}"
