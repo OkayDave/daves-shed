@@ -1,5 +1,22 @@
 # Dave's Shed
 
+My stash of scripts, configurations, and other customisations to ensure I have a nice time when using my computers.
+
+## Requirements
+
+* zsh
+* ghostty
+* git
+* eza
+* fzf
+* zoxide
+* AWS CLI
+* kubectl
+* ripgrep
+* bat
+* zed
+* neovim
+
 ## Components
 
 - **[Terminal](terminal/README.md)**: Zsh configuration, Ghostty settings, and Kubernetes/File helper scripts.
