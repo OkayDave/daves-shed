@@ -1,0 +1,109 @@
+# Location: ~/.ideavimrc
+
+" =========================
+" Leader key
+" =========================
+let mapleader = " "
+
+" =========================
+" General sane defaults
+" =========================
+set clipboard=unnamedplus
+set number
+set relativenumber
+set ignorecase
+set smartcase
+set incsearch
+set hlsearch
+set scrolloff=8
+set sidescrolloff=8
+set timeoutlen=400
+
+" =========================
+" Disable arrow keys (optional but based)
+" =========================
+noremap <Up> <Nop>
+noremap <Down> <Nop>
+noremap <Left> <Nop>
+noremap <Right> <Nop>
+
+" =========================
+" File actions
+" =========================
+nnoremap <leader>s :action SaveAll<CR>
+nnoremap <leader>q :action CloseActiveTab<CR>
+nnoremap <leader>x :action CloseEditor<CR>
+
+" =========================
+" Window management
+" =========================
+
+nnoremap <leader>we :action SplitVertically<CR>
+nnoremap <leader>ws :action SplitHorizontally<CR>
+
+" Close split
+nnoremap <leader>wc :action CloseEditor<CR>
+
+" Navigate splits
+nnoremap <leader>wh <C-w>h
+nnoremap <leader>wj <C-w>j
+nnoremap <leader>wk <C-w>k
+nnoremap <leader>wl <C-w>l
+
+" Equalize splits
+nnoremap <leader>w= <C-w>=
+
+" =========================
+" Buffer / tab navigation
+" =========================
+nnoremap <leader>bn :action NextTab<CR>
+nnoremap <leader>bp :action PreviousTab<CR>
+nnoremap <leader>bd :action CloseActiveTab<CR>
+
+" =========================
+" Search / navigation
+" =========================
+nnoremap <leader>ff :action GotoFile<CR>
+nnoremap <leader>fg :action FindInPath<CR>
+nnoremap <leader>fs :action Find<CR>
+nnoremap <leader>fr :action Replace<CR>
+
+" Symbol / structure navigation
+nnoremap <leader>ss :action GotoSymbol<CR>
+nnoremap <leader>st :action FileStructurePopup<CR>
+
+" =========================
+" Code actions (RubyMine gold)
+" =========================
+nnoremap <leader>ca :action ShowIntentionActions<CR>
+nnoremap <leader>cr :action RenameElement<CR>
+nnoremap <leader>cf :action ReformatCode<CR>
+nnoremap <leader>co :action OptimizeImports<CR>
+
+" =========================
+" Git (chef’s kiss)
+" =========================
+nnoremap <leader>gs :action GitToolBoxStatus<CR>
+nnoremap <leader>gc :action CheckinProject<CR>
+nnoremap <leader>gb :action Git.Branches<CR>
+nnoremap <leader>gd :action ShowDiff<CR>
+
+" =========================
+" Testing (RSpec-friendly)
+" =========================
+nnoremap <leader>tg :action RunContextConfiguration<CR>
+nnoremap <leader>tr :action Rerun<CR>
+nnoremap <leader>ta :action Stop<CR>
+nnoremap <leader>tt :action GotoTest<CR>
+nnoremap <leader>ts :action GotoRelatedSymbol<CR>
+
+" =========================
+" Terminal & tools
+" =========================
+nnoremap <leader>ot :action ActivateTerminalToolWindow<CR>
+nnoremap <leader>op :action ActivateProjectToolWindow<CR>
+
+" =========================
+" Escape insert mode like a normal human
+" =========================
+inoremap jk <Esc>
