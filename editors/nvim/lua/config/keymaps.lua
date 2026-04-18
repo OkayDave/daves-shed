@@ -58,3 +58,6 @@ keymap.set("n", "<leader>tr", ":lua require('neotest').run.run_last()<CR>", { de
 -- Terminal & tools
 keymap.set("n", "<leader>ot", ":terminal<CR>", { desc = "Open Terminal" })
 keymap.set("n", "<leader>op", ":NvimTreeToggle<CR>", { desc = "Project Drawer" })
+keymap.set("n", "<leader>oo", ":Telescope find_files<CR>", { desc = "Open File" })
+keymap.set("n", "<leader>ok", ":Telescope commands<CR>", { desc = "Command Palette" })
+keymap.set("n", "<leader>og", ":Telescope git_status<CR>", { desc = "Git Status (Commit)" })

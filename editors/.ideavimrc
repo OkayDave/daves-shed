@@ -45,19 +45,20 @@ nnoremap <leader>ws :action SplitHorizontally<CR>
 nnoremap <leader>wc :action CloseEditor<CR>
 
 " Navigate splits
-nnoremap <leader>wh <C-w>h
-nnoremap <leader>wj <C-w>j
-nnoremap <leader>wk <C-w>k
-nnoremap <leader>wl <C-w>l
+nnoremap <leader>wh
+nnoremap <leader>wj
+nnoremap <leader>wk
+nnoremap <leader>wl
+
 
 " Equalize splits
-nnoremap <leader>w= <C-w>=
+nnoremap <leader>w=
 
 " =========================
 " Buffer / tab navigation
 " =========================
-nnoremap <leader>bn :action NextTab<CR>
-nnoremap <leader>bp :action PreviousTab<CR>
+nnoremap <leader>bl :action NextTab<CR>
+nnoremap <leader>bh :action PreviousTab<CR>
 nnoremap <leader>bd :action CloseActiveTab<CR>
 
 " =========================
@@ -102,6 +103,10 @@ nnoremap <leader>ts :action GotoRelatedSymbol<CR>
 " =========================
 nnoremap <leader>ot :action ActivateTerminalToolWindow<CR>
 nnoremap <leader>op :action ActivateProjectToolWindow<CR>
+nnoremap <leader>oa :action ActivateAIAssistantToolWindow<CR>
+nnoremap <leader>oo :action GotoFile<CR>
+nnoremap <leader>ok :action GotoAction<CR>
+nnoremap <leader>og :action ActivateCommitToolWindow<CR>
 
 " =========================
 " Escape insert mode like a normal human
