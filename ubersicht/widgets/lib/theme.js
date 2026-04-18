@@ -23,6 +23,16 @@ export const theme = {
     family: '"Rec Mono Casual", Menlo, Monaco, monospace',
   },
 
+  accent: {
+    clear: '#5eead4',
+    cloud: '#93c5fd',
+    rain: '#60a5fa',
+    storm: '#f59e0b',
+    snow: '#cbd5e1',
+    fog: '#a1a1aa',
+    fallback: '#5eead4',
+  },
+
   radius: {
     panel: '18px',
     inner: '10px',

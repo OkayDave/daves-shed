@@ -37,7 +37,12 @@ To link the configurations to your home directory, run:
 ```
 
 ### Ubersicht
-Set your Ubersicht widgets folder to use the `ubersicht/widgets` directory.
+* Set your Ubersicht widgets folder to use the `ubersicht/widgets` directory.
+* Add your location information for the weather widget:
+```zshrc
+shed-kv set weather.coordinates "56.6224,-6.0605"
+shed-kv set weather.location_name "Tobermory"
+```
 
 ### Wallpaper Rotation
 To enable automatic wallpaper rotation, you can do any of these:

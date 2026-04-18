@@ -6,7 +6,7 @@ export const panelBase = `
   background: ${theme.colours.panel};
   -webkit-backdrop-filter: ${theme.effects.blur};
   backdrop-filter: ${theme.effects.blur};
-  border: 1px solid ${theme.colours.border};
+  border: 2px solid ${theme.colours.border};
   border-radius: ${theme.radius.panel};
   box-shadow: ${theme.effects.panelShadow};
   color: ${theme.colours.text};
@@ -57,4 +57,19 @@ export const valueBase = `
 export const errorBase = `
   font-size: 14px;
   color: ${theme.colours.error};
+`;
+
+export const headlineBoxBase = `
+  display: grid;
+  gap: 10px;
+  padding: 16px 14px;
+  background:
+    linear-gradient(
+      180deg,
+      var(--headline-tint, rgba(94, 234, 212, 0.08)),
+      rgba(0, 0, 0, 0.12)
+    );
+  border: 5px solid var(--headline-border, rgba(94, 234, 212, 0.16));
+  border-radius: ${theme.radius.inner};
+  box-shadow: ${theme.effects.innerShadow};
 `;
