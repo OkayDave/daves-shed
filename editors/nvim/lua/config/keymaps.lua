@@ -41,6 +41,10 @@ keymap.set("n", "<leader>fr", ":%s/", { desc = "Replace" })
 keymap.set("n", "<leader>ss", ":Telescope lsp_symbols<CR>", { desc = "Symbols" })
 keymap.set("n", "<leader>st", ":Telescope lsp_document_symbols<CR>", { desc = "Document Structure" })
 
+-- Commenting
+keymap.set("n", "<leader>/", "gcc", { remap = true, desc = "Comment Line" })
+keymap.set("v", "<leader>/", "gc", { remap = true, desc = "Comment Selection" })
+
 -- Code actions (LSP)
 keymap.set("n", "<leader>ca", vim.lsp.buf.code_action, { desc = "Code Action" })
 keymap.set("n", "<leader>cr", vim.lsp.buf.rename, { desc = "Rename Symbol" })

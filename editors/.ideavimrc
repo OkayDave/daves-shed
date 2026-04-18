@@ -18,6 +18,7 @@ set hlsearch
 set scrolloff=8
 set sidescrolloff=8
 set timeoutlen=400
+set commentary
 
 " =========================
 " Disable arrow keys (optional but based)
@@ -80,6 +81,12 @@ nnoremap <leader>ca :action ShowIntentionActions<CR>
 nnoremap <leader>cr :action RenameElement<CR>
 nnoremap <leader>cf :action ReformatCode<CR>
 nnoremap <leader>co :action OptimizeImports<CR>
+
+" =========================
+" Commenting
+" =========================
+nmap <leader>/ gcc
+vmap <leader>/ gc
 
 " =========================
 " Git (chef’s kiss)

@@ -11,6 +11,7 @@
     </content>
     <orderEntry type="jdk" jdkName="asdf: 3.4.7" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="csv (v3.3.2, asdf: 3.4.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v2.19.3, asdf: 3.4.7) [gem]" level="application" />
   </component>
 </module>

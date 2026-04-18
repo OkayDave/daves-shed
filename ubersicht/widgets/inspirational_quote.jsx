@@ -1,12 +1,12 @@
-export const command = "zsh -l -c 'ruby \"../scripts/clock.rb\"'";
-
-export const refreshFrequency = 1000;
+export const command = "zsh -l -c 'ruby ../scripts/inspirational_quote.rb'"
+// export const command = "zsh -l -c 'which ruby'"
+export const refreshFrequency = 600000; // 10 minutes
 
 export const className = `
-  top: 28px;
+  top: 260px;
   right: 28px;
   width: 390px;
-  height: 200px;
+  height: 275px;
   box-sizing: border-box;
   padding: 18px 18px 16px;
   background: rgba(28, 24, 20, 0.88);
@@ -56,7 +56,7 @@ export const className = `
   .value {
     flex: 1;
     text-align: right;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 700;
     line-height: 1;
     letter-spacing: 0.08em;
@@ -64,14 +64,31 @@ export const className = `
     text-shadow: 0 0 12px rgba(255, 190, 90, 0.10);
   }
 
-  .time {
-    font-size: 38px;
-    letter-spacing: 0.10em;
+  .quote-box {
+    padding: 14px 12px;
+    background: rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(255, 217, 142, 0.05);
+    border-radius: 10px;
+    font-size: 18px;
+    line-height: 1.5;
+    font-style: italic;
+    text-align: center;
+    color: #ffd98e;
+    text-shadow: 0 0 12px rgba(255, 190, 90, 0.10);
   }
 
-  .seconds {
-    font-size: 16px;
-    margin-left: 8px;
+  .image-box {
+    margin-top: 4px;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 217, 142, 0.1);
+    background: #000;
+  }
+
+  .image-box img {
+    width: 100%;
+    display: block;
+    opacity: 0.9;
   }
 
   .error {
@@ -80,11 +97,19 @@ export const className = `
   }
 `;
 
-export const render = ({ output }) => {
+export const render = ({ output, error }) => {
+  if (error) {
+    return (
+      <div className="error">
+        Error: {String(error)}
+      </div>
+    );
+  }
+
   if (!output || output.trim() === "") {
     return (
-      <div>
-        <div className="error">No data</div>
+      <div className="error">
+        No data
       </div>
     );
   }
@@ -93,33 +118,21 @@ export const render = ({ output }) => {
     const data = JSON.parse(output);
 
     return (
-      <div>
-        <div className="board">
-          <div className="row">
-            <div className="label">Day</div>
-            <div className="value">{data.date.day.full_name}</div>
-          </div>
+      <div className="board">
+        <div className="row">
+          <div className="label"></div>
+          <div className="value">{data.Category}</div>
+        </div>
 
-          <div className="row">
-            <div className="label">Date</div>
-            <div className="value">
-              {data.date.day.number} {data.date.month.full_name}
-            </div>
-          </div>
-
-          <div className="row">
-            <div className="label">Time</div>
-            <div className="value time">
-              {data.time.hour}:{data.time.minute}:{data.time.second}
-            </div>
-          </div>
+        <div className="quote-box">
+          {data.Quote ? data.Quote.trim() : "No quote available"}
         </div>
       </div>
     );
   } catch (e) {
     return (
-      <div>
-        <div className="error">Could not parse Clock JSON</div>
+      <div className="error">
+        Could not parse Quote JSON: {output}
       </div>
     );
   }
