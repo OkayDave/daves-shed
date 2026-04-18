@@ -32,7 +32,7 @@ export const className = `
   top: 565px;
   right: 28px;
   width: 390px;
-  height: 375px;
+  height: 335px;
   ${panelBase}
 
   .board {
