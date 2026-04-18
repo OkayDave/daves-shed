@@ -70,7 +70,7 @@ export const className = `
   }
 
   .track-name {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 700;
     line-height: 1.15;
     letter-spacing: 0.03em;
