@@ -41,6 +41,10 @@ keymap.set("n", "<leader>fr", ":%s/", { desc = "Replace" })
 keymap.set("n", "<leader>ss", ":Telescope lsp_symbols<CR>", { desc = "Symbols" })
 keymap.set("n", "<leader>st", ":Telescope lsp_document_symbols<CR>", { desc = "Document Structure" })
 
+-- Commenting
+keymap.set("n", "<leader>/", "gcc", { remap = true, desc = "Comment Line" })
+keymap.set("v", "<leader>/", "gc", { remap = true, desc = "Comment Selection" })
+
 -- Code actions (LSP)
 keymap.set("n", "<leader>ca", vim.lsp.buf.code_action, { desc = "Code Action" })
 keymap.set("n", "<leader>cr", vim.lsp.buf.rename, { desc = "Rename Symbol" })
@@ -58,3 +62,6 @@ keymap.set("n", "<leader>tr", ":lua require('neotest').run.run_last()<CR>", { de
 -- Terminal & tools
 keymap.set("n", "<leader>ot", ":terminal<CR>", { desc = "Open Terminal" })
 keymap.set("n", "<leader>op", ":NvimTreeToggle<CR>", { desc = "Project Drawer" })
+keymap.set("n", "<leader>oo", ":Telescope find_files<CR>", { desc = "Open File" })
+keymap.set("n", "<leader>ok", ":Telescope commands<CR>", { desc = "Command Palette" })
+keymap.set("n", "<leader>og", ":Telescope git_status<CR>", { desc = "Git Status (Commit)" })

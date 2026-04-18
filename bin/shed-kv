@@ -1,0 +1,42 @@
+#!/usr/bin/env zsh
+
+if ! command -v sqlite3 &> /dev/null; then
+    echo "Error: sqlite3 is not installed." >&2
+    exit 1
+fi
+
+DB_FILE="$HOME/.shed.sqlite"
+
+# Ensure the database and table exist
+sqlite3 "$DB_FILE" "CREATE TABLE IF NOT EXISTS kv (key TEXT PRIMARY KEY, value TEXT);"
+
+usage() {
+    echo "Usage: $0 {get|set|delete|list} [key] [value]"
+    exit 1
+}
+
+case "$1" in
+    get)
+        [[ -z "$2" ]] && usage
+        # Use -noheader and -list to get just the value
+        sqlite3 -noheader -list "$DB_FILE" "SELECT value FROM kv WHERE key = '$(echo "$2" | sed "s/'/''/g")';"
+        ;;
+    set)
+        [[ -z "$2" || -z "$3" ]] && usage
+        KEY=$(echo "$2" | sed "s/'/''/g")
+        VALUE=$(echo "$3" | sed "s/'/''/g")
+        sqlite3 "$DB_FILE" "INSERT OR REPLACE INTO kv (key, value) VALUES ('$KEY', '$VALUE');"
+        ;;
+    delete)
+        [[ -z "$2" ]] && usage
+        sqlite3 "$DB_FILE" "DELETE FROM kv WHERE key = '$(echo "$2" | sed "s/'/''/g")';"
+        ;;
+    list)
+        # Output as JSON
+        RESULT=$(sqlite3 -json "$DB_FILE" "SELECT * FROM kv;")
+        echo "${RESULT:-[]}"
+        ;;
+    *)
+        usage
+        ;;
+esac
