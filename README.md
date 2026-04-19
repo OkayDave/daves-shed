@@ -50,3 +50,6 @@ To enable automatic wallpaper rotation, you can do any of these:
 * Use the normal MacOs 'Change Wallpaper' within System Preferences.
 * Add the `bin/rotate-wallpaper.sh` to whatever cron / trigger you'd like
 * Add the `bin/com.github.dave-shed.wallpaper.plist` to your login items. See `wallpaper/README.md` for more details.
+
+### Alfred
+* Set your Alfred preferences folder to user `desktop/alfred` (or symlink it)

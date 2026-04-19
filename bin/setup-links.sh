@@ -10,6 +10,8 @@ GHOSTTY_CONFIG_DIR="$HOME/.config/ghostty"
 GHOSTTY_CONFIG_FILE="$GHOSTTY_CONFIG_DIR/config"
 ZSHRC_CONFIG="$HOME/.zshrc"
 ZSH_DIR="$HOME/.zsh"
+BARTENDER_PLIST="$HOME/Library/Preferences/com.surteesstudios.Bartender.plist"
+BARTENDER_CONFIG_DIR="$HOME/Library/Application Support/Bartender 5"
 
 # Function to create a symlink with backup
 create_link() {
@@ -53,6 +55,10 @@ create_link "$REPO_ROOT/editors/zed_settings.json" "$ZED_CONFIG_FILE"
 # Link Terminal settings
 create_link "$REPO_ROOT/terminal/config.ghostty" "$GHOSTTY_CONFIG_FILE"
 create_link "$REPO_ROOT/terminal/.zshrc" "$ZSHRC_CONFIG"
+
+# Link Bartender settings
+create_link "$REPO_ROOT/desktop/bartender/com.surteesstudios.Bartender.plist" "$BARTENDER_PLIST"
+create_link "$REPO_ROOT/desktop/bartender/Bartender5" "$BARTENDER_CONFIG_DIR"
 
 # Link individual .zsh files
 if [ -d "$REPO_ROOT/terminal/.zsh" ]; then
