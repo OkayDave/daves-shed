@@ -6,7 +6,7 @@ const statusCommand = `zsh -lc 'ruby "../scripts/art_panel.rb" status'`;
 const nextImageCommand = `zsh -lc 'ruby "../scripts/art_panel.rb" next'`;
 
 export const command = statusCommand;
-export const refreshFrequency = 300000;
+export const refreshFrequency = 100000;
 
 export const className = `
   top: 28px;

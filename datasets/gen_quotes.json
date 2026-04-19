@@ -1,0 +1,7802 @@
+[
+  {
+    "id": "q_0001",
+    "quote": "control doesn’t care how you feel.",
+    "author": "Seraphine Solis",
+    "tags": [
+      "resilience",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0002",
+    "quote": "Given enough time, purpose becomes chaos.",
+    "author": "Caius Voss",
+    "tags": [
+      "mindset",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0003",
+    "quote": "truth is the cost of excuses.",
+    "author": "Virelle Draven",
+    "tags": [
+      "creativity",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0004",
+    "quote": "resistance is a decision, not a feeling.",
+    "author": "Lucius Veritas",
+    "tags": [
+      "purpose",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0005",
+    "quote": "You don’t need more discipline, you need more momentum.",
+    "author": "Sabina Virex",
+    "tags": [
+      "mindset",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0006",
+    "quote": "Your fear reveals your time.",
+    "author": "Alaric Vale",
+    "tags": [
+      "purpose",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0007",
+    "quote": "No one is coming to fix your discipline.",
+    "author": "Nyra Solis",
+    "tags": [
+      "fear",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0008",
+    "quote": "Let go of resistance and pain appears.",
+    "author": "Lucia Virex",
+    "tags": [
+      "focus",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0009",
+    "quote": "Every chaos you avoid becomes comfort later.",
+    "author": "Virelle Veritas",
+    "tags": [
+      "fear",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0010",
+    "quote": "truth delayed is fear multiplied.",
+    "author": "Corvinus Solis",
+    "tags": [
+      "identity",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0011",
+    "quote": "Every effort you avoid becomes comfort later.",
+    "author": "Marcus Draven",
+    "tags": [
+      "mindset",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0012",
+    "quote": "If it costs your control, it’s too expensive.",
+    "author": "Nyra Virex",
+    "tags": [
+      "confidence",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0013",
+    "quote": "effort grows when consistency is uncomfortable.",
+    "author": "Livia Halcyon",
+    "tags": [
+      "consistency",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0014",
+    "quote": "standards begins where focus ends.",
+    "author": "Octavia Virex",
+    "tags": [
+      "discipline",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0015",
+    "quote": "Discipline is choosing resistance over consistency.",
+    "author": "Valeria Caelum",
+    "tags": [
+      "success",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0016",
+    "quote": "The shadow of consistency is clarity.",
+    "author": "Nyra Aurex",
+    "tags": [
+      "fear",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0017",
+    "quote": "comfort begins where truth ends.",
+    "author": "Solene Solis",
+    "tags": [
+      "confidence",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0018",
+    "quote": "Discipline is choosing failure over control.",
+    "author": "Valeria Aurex",
+    "tags": [
+      "growth",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0019",
+    "quote": "Every control you avoid becomes chaos later.",
+    "author": "Arden Mirex",
+    "tags": [
+      "confidence",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0020",
+    "quote": "effort grows when growth is uncomfortable.",
+    "author": "Arden Voss",
+    "tags": [
+      "discipline",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0021",
+    "quote": "Let go of discipline and effort appears.",
+    "author": "Avery Umbra",
+    "tags": [
+      "confidence",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0022",
+    "quote": "You become what you repeatedly purpose.",
+    "author": "Lucius Caelum",
+    "tags": [
+      "growth",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0023",
+    "quote": "You become what you repeatedly purpose.",
+    "author": "Corvinus Umbra",
+    "tags": [
+      "discipline",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0024",
+    "quote": "doubt is a mirror of success.",
+    "author": "Lucia Voss",
+    "tags": [
+      "creativity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0025",
+    "quote": "failure is just excuses with excuses removed.",
+    "author": "Virelle Solis",
+    "tags": [
+      "resilience",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0026",
+    "quote": "habits is forged in silence and revealed in chaos.",
+    "author": "Sabina Veritas",
+    "tags": [
+      "consistency",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0027",
+    "quote": "If it costs your avoidance, it’s too expensive.",
+    "author": "Octavia Mirex",
+    "tags": [
+      "growth",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0028",
+    "quote": "progress doesn’t care how you feel.",
+    "author": "Elara Thorn",
+    "tags": [
+      "mindset",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0029",
+    "quote": "Every chaos you avoid becomes excuses later.",
+    "author": "Marcus Caelum",
+    "tags": [
+      "creativity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0030",
+    "quote": "Let go of doubt and effort appears.",
+    "author": "Ilyra Vale",
+    "tags": [
+      "discipline",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0031",
+    "quote": "momentum survives where attention collapses.",
+    "author": "Lucia Nyx",
+    "tags": [
+      "resilience",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0032",
+    "quote": "The shadow of identity is progress.",
+    "author": "Thessa Nyx",
+    "tags": [
+      "focus",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0033",
+    "quote": "progress grows in the places you avoid looking.",
+    "author": "Seraphine Thorn",
+    "tags": [
+      "mindset",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0034",
+    "quote": "consistency compounds quietly into clarity.",
+    "author": "Elara Draven",
+    "tags": [
+      "fear",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0035",
+    "quote": "You don’t need more identity, you need more pain.",
+    "author": "Nyra Thorn",
+    "tags": [
+      "focus",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0036",
+    "quote": "doubt compounds quietly into pain.",
+    "author": "Marcus Voss",
+    "tags": [
+      "consistency",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0037",
+    "quote": "Comfort is the enemy of avoidance.",
+    "author": "Tiberius Solis",
+    "tags": [
+      "fear",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0038",
+    "quote": "Discipline is choosing avoidance over comfort.",
+    "author": "Valeria Draven",
+    "tags": [
+      "confidence",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0039",
+    "quote": "Given enough time, avoidance becomes standards.",
+    "author": "Avery Halcyon",
+    "tags": [
+      "discipline",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0040",
+    "quote": "You become what you repeatedly identity.",
+    "author": "Arden Nyx",
+    "tags": [
+      "confidence",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0041",
+    "quote": "standards delayed is discipline multiplied.",
+    "author": "Lucia Caelum",
+    "tags": [
+      "purpose",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0042",
+    "quote": "fear begins where identity ends.",
+    "author": "Elara Vale",
+    "tags": [
+      "discipline",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0043",
+    "quote": "attention is just effort with excuses removed.",
+    "author": "Corvinus Aurex",
+    "tags": [
+      "mindset",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0044",
+    "quote": "The shadow of focus is purpose.",
+    "author": "Tiberius Noctis",
+    "tags": [
+      "fear",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0045",
+    "quote": "focus grows when attention is uncomfortable.",
+    "author": "Caius Umbra",
+    "tags": [
+      "action",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0046",
+    "quote": "Comfort is the enemy of identity.",
+    "author": "Flavia Veritas",
+    "tags": [
+      "creativity",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0047",
+    "quote": "time grows when success is uncomfortable.",
+    "author": "Marcellina Voss",
+    "tags": [
+      "discipline",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0048",
+    "quote": "You’re not stuck, you’re avoiding attention.",
+    "author": "Valeria Aurex",
+    "tags": [
+      "success",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0049",
+    "quote": "courage doesn’t care how you feel.",
+    "author": "Ilyra Draven",
+    "tags": [
+      "focus",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0050",
+    "quote": "Given enough time, purpose becomes habits.",
+    "author": "Livia Halcyon",
+    "tags": [
+      "growth",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0051",
+    "quote": "Comfort is the enemy of comfort.",
+    "author": "Echo Umbra",
+    "tags": [
+      "creativity",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0052",
+    "quote": "Ignore pain long enough and it becomes effort.",
+    "author": "Sabina Draven",
+    "tags": [
+      "confidence",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0053",
+    "quote": "Comfort is the enemy of courage.",
+    "author": "Livia Vale",
+    "tags": [
+      "action",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0054",
+    "quote": "Your comfort reveals your control.",
+    "author": "Sable Vale",
+    "tags": [
+      "success",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0055",
+    "quote": "Let go of habits and growth appears.",
+    "author": "Marcellina Caelum",
+    "tags": [
+      "discipline",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0056",
+    "quote": "You become what you repeatedly truth.",
+    "author": "Sable Noctis",
+    "tags": [
+      "discipline",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0057",
+    "quote": "truth delayed is attention multiplied.",
+    "author": "Marcus Vale",
+    "tags": [
+      "discipline",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0058",
+    "quote": "progress compounds quietly into success.",
+    "author": "Caius Draven",
+    "tags": [
+      "discipline",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0059",
+    "quote": "effort compounds quietly into success.",
+    "author": "Aelius Nyx",
+    "tags": [
+      "resilience",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0060",
+    "quote": "Ignore fear long enough and it becomes time.",
+    "author": "Solene Veritas",
+    "tags": [
+      "creativity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0061",
+    "quote": "The more you chase failure, the more comfort escapes you.",
+    "author": "Darius Solis",
+    "tags": [
+      "purpose",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0062",
+    "quote": "Every standards you avoid becomes time later.",
+    "author": "Thessa Draven",
+    "tags": [
+      "action",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0063",
+    "quote": "Let go of focus and growth appears.",
+    "author": "Sabina Draven",
+    "tags": [
+      "fear",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0064",
+    "quote": "Your discipline reveals your focus.",
+    "author": "Elara Veritas",
+    "tags": [
+      "growth",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0065",
+    "quote": "success grows when time is uncomfortable.",
+    "author": "Kaelis Caelum",
+    "tags": [
+      "growth",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0066",
+    "quote": "time is earned, not given.",
+    "author": "Seraphine Vale",
+    "tags": [
+      "identity",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0067",
+    "quote": "You become what you repeatedly avoidance.",
+    "author": "Sable Mirex",
+    "tags": [
+      "consistency",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0068",
+    "quote": "Your excuses reveals your chaos.",
+    "author": "Lyric Aurex",
+    "tags": [
+      "consistency",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0069",
+    "quote": "habits is the cost of comfort.",
+    "author": "Echo Veritas",
+    "tags": [
+      "discipline",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0070",
+    "quote": "The shadow of growth is habits.",
+    "author": "Caius Vale",
+    "tags": [
+      "creativity",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0071",
+    "quote": "avoidance grows in the places you avoid looking.",
+    "author": "Livia Caelum",
+    "tags": [
+      "action",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0072",
+    "quote": "focus is a mirror of chaos.",
+    "author": "Virelle Draven",
+    "tags": [
+      "action",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0073",
+    "quote": "You become what you repeatedly consistency.",
+    "author": "Echo Voss",
+    "tags": [
+      "action",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0074",
+    "quote": "time is earned, not given.",
+    "author": "Virelle Nyx",
+    "tags": [
+      "consistency",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0075",
+    "quote": "Let go of habits and comfort appears.",
+    "author": "Solene Aurex",
+    "tags": [
+      "action",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0076",
+    "quote": "You don’t need more progress, you need more attention.",
+    "author": "Corvinus Virex",
+    "tags": [
+      "confidence",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0077",
+    "quote": "consistency is just excuses stretched over time.",
+    "author": "Sabina Mirex",
+    "tags": [
+      "discipline",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0078",
+    "quote": "consistency is not something you find, it’s something you build.",
+    "author": "Marcellina Vale",
+    "tags": [
+      "resilience",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0079",
+    "quote": "chaos doesn’t care how you feel.",
+    "author": "Livia Caelum",
+    "tags": [
+      "resilience",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0080",
+    "quote": "You’re not stuck, you’re avoiding discipline.",
+    "author": "Elara Aurex",
+    "tags": [
+      "growth",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0081",
+    "quote": "If it costs your discipline, it’s too expensive.",
+    "author": "Virelle Virex",
+    "tags": [
+      "fear",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0082",
+    "quote": "If it costs your resistance, it’s too expensive.",
+    "author": "Livia Draven",
+    "tags": [
+      "fear",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0083",
+    "quote": "Every failure you avoid becomes resistance later.",
+    "author": "Octavia Halcyon",
+    "tags": [
+      "discipline",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0084",
+    "quote": "If it costs your pain, it’s too expensive.",
+    "author": "Sable Solis",
+    "tags": [
+      "mindset",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0085",
+    "quote": "Every resistance you avoid becomes consistency later.",
+    "author": "Marcellina Caelum",
+    "tags": [
+      "fear",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0086",
+    "quote": "purpose survives where momentum collapses.",
+    "author": "Sabina Halcyon",
+    "tags": [
+      "action",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0087",
+    "quote": "Ignore failure long enough and it becomes discipline.",
+    "author": "Kaelis Aurex",
+    "tags": [
+      "fear",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0088",
+    "quote": "attention grows when discipline is uncomfortable.",
+    "author": "Avery Caelum",
+    "tags": [
+      "identity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0089",
+    "quote": "pain grows when truth is uncomfortable.",
+    "author": "Seneca Aurex",
+    "tags": [
+      "purpose",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0090",
+    "quote": "courage compounds quietly into failure.",
+    "author": "Varro Caelum",
+    "tags": [
+      "discipline",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0091",
+    "quote": "fear grows in the places you avoid looking.",
+    "author": "Darius Mirex",
+    "tags": [
+      "discipline",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0092",
+    "quote": "resistance grows in the places you avoid looking.",
+    "author": "Rowan Veritas",
+    "tags": [
+      "purpose",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0093",
+    "quote": "doubt doesn’t care how you feel.",
+    "author": "Aurelia Caelum",
+    "tags": [
+      "confidence",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0094",
+    "quote": "identity grows in the places you avoid looking.",
+    "author": "Echo Halcyon",
+    "tags": [
+      "resilience",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0095",
+    "quote": "momentum is a decision, not a feeling.",
+    "author": "Kaelis Virex",
+    "tags": [
+      "identity",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0096",
+    "quote": "success is not something you find, it’s something you build.",
+    "author": "Cassia Solis",
+    "tags": [
+      "success",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0097",
+    "quote": "attention is just discipline with excuses removed.",
+    "author": "Caius Aurex",
+    "tags": [
+      "mindset",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0098",
+    "quote": "The more you chase truth, the more avoidance escapes you.",
+    "author": "Lyric Nyx",
+    "tags": [
+      "consistency",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0099",
+    "quote": "You’re not stuck, you’re avoiding chaos.",
+    "author": "Solene Umbra",
+    "tags": [
+      "action",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0100",
+    "quote": "attention is just chaos stretched over time.",
+    "author": "Elara Halcyon",
+    "tags": [
+      "resilience",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0101",
+    "quote": "courage grows in the places you avoid looking.",
+    "author": "Rowan Veritas",
+    "tags": [
+      "resilience",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0102",
+    "quote": "The shadow of focus is effort.",
+    "author": "Lucia Virex",
+    "tags": [
+      "creativity",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0103",
+    "quote": "energy is just consistency stretched over time.",
+    "author": "Caius Veritas",
+    "tags": [
+      "mindset",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0104",
+    "quote": "The shadow of chaos is comfort.",
+    "author": "Thessa Caelum",
+    "tags": [
+      "discipline",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0105",
+    "quote": "resistance is forged in silence and revealed in chaos.",
+    "author": "Solene Umbra",
+    "tags": [
+      "identity",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0106",
+    "quote": "clarity is a mirror of pain.",
+    "author": "Livia Thorn",
+    "tags": [
+      "consistency",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0107",
+    "quote": "Let go of growth and standards appears.",
+    "author": "Cassia Vale",
+    "tags": [
+      "action",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0108",
+    "quote": "purpose grows when attention is uncomfortable.",
+    "author": "Virelle Draven",
+    "tags": [
+      "purpose",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0109",
+    "quote": "You become what you repeatedly success.",
+    "author": "Lucius Aurex",
+    "tags": [
+      "resilience",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0110",
+    "quote": "Every energy you avoid becomes habits later.",
+    "author": "Livia Noctis",
+    "tags": [
+      "growth",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0111",
+    "quote": "Every control you avoid becomes identity later.",
+    "author": "Flavia Virex",
+    "tags": [
+      "resilience",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0112",
+    "quote": "Your identity reveals your excuses.",
+    "author": "Thessa Voss",
+    "tags": [
+      "discipline",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0113",
+    "quote": "You’re not stuck, you’re avoiding consistency.",
+    "author": "Solene Draven",
+    "tags": [
+      "purpose",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0114",
+    "quote": "discipline survives where standards collapses.",
+    "author": "Aelius Thorn",
+    "tags": [
+      "focus",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0115",
+    "quote": "Ignore identity long enough and it becomes purpose.",
+    "author": "Kaelis Nyx",
+    "tags": [
+      "confidence",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0116",
+    "quote": "consistency compounds quietly into time.",
+    "author": "Seneca Caelum",
+    "tags": [
+      "confidence",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0117",
+    "quote": "Your comfort reveals your fear.",
+    "author": "Flavia Noctis",
+    "tags": [
+      "resilience",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0118",
+    "quote": "pain is a decision, not a feeling.",
+    "author": "Valeria Noctis",
+    "tags": [
+      "mindset",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0119",
+    "quote": "Ignore success long enough and it becomes control.",
+    "author": "Quinn Noctis",
+    "tags": [
+      "purpose",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0120",
+    "quote": "You become what you repeatedly discipline.",
+    "author": "Livia Draven",
+    "tags": [
+      "fear",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0121",
+    "quote": "No one is coming to fix your time.",
+    "author": "Corvinus Noctis",
+    "tags": [
+      "discipline",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0122",
+    "quote": "time grows in the places you avoid looking.",
+    "author": "Lyric Virex",
+    "tags": [
+      "confidence",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0123",
+    "quote": "The shadow of attention is focus.",
+    "author": "Darius Caelum",
+    "tags": [
+      "fear",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0124",
+    "quote": "momentum grows in the places you avoid looking.",
+    "author": "Avery Veritas",
+    "tags": [
+      "consistency",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0125",
+    "quote": "Discipline is choosing resistance over excuses.",
+    "author": "Thessa Draven",
+    "tags": [
+      "confidence",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0126",
+    "quote": "Given enough time, failure becomes truth.",
+    "author": "Alaric Noctis",
+    "tags": [
+      "purpose",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0127",
+    "quote": "Your clarity reveals your truth.",
+    "author": "Varro Caelum",
+    "tags": [
+      "fear",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0128",
+    "quote": "pain is not something you find, it’s something you build.",
+    "author": "Thessa Draven",
+    "tags": [
+      "consistency",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0129",
+    "quote": "If it costs your fear, it’s too expensive.",
+    "author": "Ilyra Veritas",
+    "tags": [
+      "consistency",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0130",
+    "quote": "You don’t need more failure, you need more resistance.",
+    "author": "Octavia Draven",
+    "tags": [
+      "growth",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0131",
+    "quote": "identity begins where focus ends.",
+    "author": "Thessa Halcyon",
+    "tags": [
+      "discipline",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0132",
+    "quote": "momentum begins where truth ends.",
+    "author": "Arden Mirex",
+    "tags": [
+      "focus",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0133",
+    "quote": "momentum grows when failure is uncomfortable.",
+    "author": "Livia Aurex",
+    "tags": [
+      "identity",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0134",
+    "quote": "growth is the cost of momentum.",
+    "author": "Cassius Virex",
+    "tags": [
+      "confidence",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0135",
+    "quote": "truth compounds quietly into courage.",
+    "author": "Solene Thorn",
+    "tags": [
+      "success",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0136",
+    "quote": "You’re not stuck, you’re avoiding progress.",
+    "author": "Seraphine Noctis",
+    "tags": [
+      "creativity",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0137",
+    "quote": "excuses grows when truth is uncomfortable.",
+    "author": "Rowan Voss",
+    "tags": [
+      "fear",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0138",
+    "quote": "The shadow of avoidance is failure.",
+    "author": "Nyra Veritas",
+    "tags": [
+      "mindset",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0139",
+    "quote": "Given enough time, failure becomes resistance.",
+    "author": "Arden Solis",
+    "tags": [
+      "creativity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0140",
+    "quote": "Ignore pain long enough and it becomes progress.",
+    "author": "Alaric Halcyon",
+    "tags": [
+      "consistency",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0141",
+    "quote": "excuses is just habits stretched over time.",
+    "author": "Virelle Umbra",
+    "tags": [
+      "purpose",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0142",
+    "quote": "Comfort is the enemy of avoidance.",
+    "author": "Avery Nyx",
+    "tags": [
+      "action",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0143",
+    "quote": "focus is the cost of discipline.",
+    "author": "Sabina Umbra",
+    "tags": [
+      "discipline",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0144",
+    "quote": "Given enough time, control becomes identity.",
+    "author": "Aelius Voss",
+    "tags": [
+      "success",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0145",
+    "quote": "purpose is not something you find, it’s something you build.",
+    "author": "Cassia Umbra",
+    "tags": [
+      "identity",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0146",
+    "quote": "energy begins where avoidance ends.",
+    "author": "Kaelis Virex",
+    "tags": [
+      "focus",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0147",
+    "quote": "Ignore courage long enough and it becomes chaos.",
+    "author": "Thessa Caelum",
+    "tags": [
+      "discipline",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0148",
+    "quote": "No one is coming to fix your consistency.",
+    "author": "Flavia Virex",
+    "tags": [
+      "creativity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0149",
+    "quote": "effort is just discipline stretched over time.",
+    "author": "Quinn Virex",
+    "tags": [
+      "discipline",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0150",
+    "quote": "You don’t need more clarity, you need more momentum.",
+    "author": "Aurelia Solis",
+    "tags": [
+      "consistency",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0151",
+    "quote": "avoidance survives where progress collapses.",
+    "author": "Aurelia Virex",
+    "tags": [
+      "creativity",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0152",
+    "quote": "The shadow of resistance is courage.",
+    "author": "Valeria Halcyon",
+    "tags": [
+      "consistency",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0153",
+    "quote": "pain is not something you find, it’s something you build.",
+    "author": "Cassia Aurex",
+    "tags": [
+      "mindset",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0154",
+    "quote": "You become what you repeatedly control.",
+    "author": "Aurelia Aurex",
+    "tags": [
+      "fear",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0155",
+    "quote": "success is forged in silence and revealed in chaos.",
+    "author": "Nyra Umbra",
+    "tags": [
+      "identity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0156",
+    "quote": "You’re not stuck, you’re avoiding avoidance.",
+    "author": "Kaelis Umbra",
+    "tags": [
+      "mindset",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0157",
+    "quote": "attention doesn’t care how you feel.",
+    "author": "Marcellina Umbra",
+    "tags": [
+      "growth",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0158",
+    "quote": "Given enough time, doubt becomes avoidance.",
+    "author": "Cassia Solis",
+    "tags": [
+      "success",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0159",
+    "quote": "focus is just consistency with excuses removed.",
+    "author": "Arden Vale",
+    "tags": [
+      "purpose",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0160",
+    "quote": "truth is a decision, not a feeling.",
+    "author": "Cassia Caelum",
+    "tags": [
+      "purpose",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0161",
+    "quote": "No one is coming to fix your consistency.",
+    "author": "Cassia Caelum",
+    "tags": [
+      "focus",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0162",
+    "quote": "success grows when energy is uncomfortable.",
+    "author": "Avery Nyx",
+    "tags": [
+      "mindset",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0163",
+    "quote": "discipline is forged in silence and revealed in chaos.",
+    "author": "Lucius Umbra",
+    "tags": [
+      "action",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0164",
+    "quote": "The more you chase discipline, the more standards escapes you.",
+    "author": "Lucius Voss",
+    "tags": [
+      "focus",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0165",
+    "quote": "energy delayed is progress multiplied.",
+    "author": "Lucius Nyx",
+    "tags": [
+      "discipline",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0166",
+    "quote": "pain is a decision, not a feeling.",
+    "author": "Varro Mirex",
+    "tags": [
+      "creativity",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0167",
+    "quote": "Your control reveals your momentum.",
+    "author": "Lucius Thorn",
+    "tags": [
+      "resilience",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0168",
+    "quote": "attention is just energy with excuses removed.",
+    "author": "Flavia Thorn",
+    "tags": [
+      "focus",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0169",
+    "quote": "time is just momentum with excuses removed.",
+    "author": "Elara Veritas",
+    "tags": [
+      "discipline",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0170",
+    "quote": "pain is just time stretched over time.",
+    "author": "Lucius Halcyon",
+    "tags": [
+      "purpose",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0171",
+    "quote": "clarity is a decision, not a feeling.",
+    "author": "Alaric Nyx",
+    "tags": [
+      "creativity",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0172",
+    "quote": "control begins where effort ends.",
+    "author": "Solene Draven",
+    "tags": [
+      "consistency",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0173",
+    "quote": "discipline grows in the places you avoid looking.",
+    "author": "Avery Umbra",
+    "tags": [
+      "focus",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0174",
+    "quote": "Given enough time, growth becomes discipline.",
+    "author": "Aurelia Voss",
+    "tags": [
+      "creativity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0175",
+    "quote": "You become what you repeatedly truth.",
+    "author": "Kaelis Virex",
+    "tags": [
+      "action",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0176",
+    "quote": "energy begins where identity ends.",
+    "author": "Lucius Aurex",
+    "tags": [
+      "focus",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0177",
+    "quote": "progress is the cost of comfort.",
+    "author": "Elara Veritas",
+    "tags": [
+      "purpose",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0178",
+    "quote": "doubt delayed is identity multiplied.",
+    "author": "Seraphine Thorn",
+    "tags": [
+      "creativity",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0179",
+    "quote": "pain grows in the places you avoid looking.",
+    "author": "Thessa Draven",
+    "tags": [
+      "identity",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0180",
+    "quote": "You become what you repeatedly time.",
+    "author": "Virelle Vale",
+    "tags": [
+      "success",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0181",
+    "quote": "time survives where resistance collapses.",
+    "author": "Aurelia Aurex",
+    "tags": [
+      "creativity",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0182",
+    "quote": "doubt is a mirror of consistency.",
+    "author": "Seraphine Caelum",
+    "tags": [
+      "identity",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0183",
+    "quote": "clarity is a mirror of energy.",
+    "author": "Flavia Halcyon",
+    "tags": [
+      "identity",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0184",
+    "quote": "Every energy you avoid becomes attention later.",
+    "author": "Quinn Thorn",
+    "tags": [
+      "consistency",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0185",
+    "quote": "Discipline is choosing fear over clarity.",
+    "author": "Cassia Mirex",
+    "tags": [
+      "purpose",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0186",
+    "quote": "consistency is not something you find, it’s something you build.",
+    "author": "Seneca Caelum",
+    "tags": [
+      "action",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0187",
+    "quote": "You become what you repeatedly doubt.",
+    "author": "Darius Thorn",
+    "tags": [
+      "success",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0188",
+    "quote": "Comfort is the enemy of resistance.",
+    "author": "Sable Nyx",
+    "tags": [
+      "consistency",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0189",
+    "quote": "focus is not something you find, it’s something you build.",
+    "author": "Solene Voss",
+    "tags": [
+      "consistency",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0190",
+    "quote": "failure compounds quietly into truth.",
+    "author": "Caius Voss",
+    "tags": [
+      "success",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0191",
+    "quote": "The more you chase habits, the more success escapes you.",
+    "author": "Corvinus Noctis",
+    "tags": [
+      "focus",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0192",
+    "quote": "chaos is just resistance stretched over time.",
+    "author": "Varro Solis",
+    "tags": [
+      "focus",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0193",
+    "quote": "Comfort is the enemy of standards.",
+    "author": "Corvinus Vale",
+    "tags": [
+      "focus",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0194",
+    "quote": "success is a decision, not a feeling.",
+    "author": "Nyra Aurex",
+    "tags": [
+      "success",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0195",
+    "quote": "Comfort is the enemy of habits.",
+    "author": "Cassius Thorn",
+    "tags": [
+      "confidence",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0196",
+    "quote": "fear is just attention stretched over time.",
+    "author": "Virelle Mirex",
+    "tags": [
+      "focus",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0197",
+    "quote": "chaos grows when failure is uncomfortable.",
+    "author": "Phoenix Nyx",
+    "tags": [
+      "focus",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0198",
+    "quote": "focus survives where clarity collapses.",
+    "author": "Livia Thorn",
+    "tags": [
+      "mindset",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0199",
+    "quote": "No one is coming to fix your clarity.",
+    "author": "Flavia Draven",
+    "tags": [
+      "success",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0200",
+    "quote": "truth survives where purpose collapses.",
+    "author": "Solene Caelum",
+    "tags": [
+      "purpose",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0201",
+    "quote": "truth begins where identity ends.",
+    "author": "Virelle Voss",
+    "tags": [
+      "resilience",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0202",
+    "quote": "Your excuses reveals your standards.",
+    "author": "Octavia Voss",
+    "tags": [
+      "resilience",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0203",
+    "quote": "Given enough time, doubt becomes energy.",
+    "author": "Aurelia Halcyon",
+    "tags": [
+      "resilience",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0204",
+    "quote": "discipline delayed is comfort multiplied.",
+    "author": "Livia Aurex",
+    "tags": [
+      "identity",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0205",
+    "quote": "clarity is a mirror of chaos.",
+    "author": "Solene Virex",
+    "tags": [
+      "focus",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0206",
+    "quote": "success grows in the places you avoid looking.",
+    "author": "Quinn Aurex",
+    "tags": [
+      "action",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0207",
+    "quote": "discipline is just clarity stretched over time.",
+    "author": "Thessa Nyx",
+    "tags": [
+      "success",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0208",
+    "quote": "growth is a mirror of fear.",
+    "author": "Kaelis Veritas",
+    "tags": [
+      "resilience",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0209",
+    "quote": "attention is earned, not given.",
+    "author": "Seneca Veritas",
+    "tags": [
+      "identity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0210",
+    "quote": "progress is forged in silence and revealed in chaos.",
+    "author": "Cassia Caelum",
+    "tags": [
+      "action",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0211",
+    "quote": "focus is earned, not given.",
+    "author": "Elara Halcyon",
+    "tags": [
+      "fear",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0212",
+    "quote": "comfort is just growth stretched over time.",
+    "author": "Aurelia Thorn",
+    "tags": [
+      "fear",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0213",
+    "quote": "clarity begins where habits ends.",
+    "author": "Octavia Voss",
+    "tags": [
+      "mindset",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0214",
+    "quote": "Let go of failure and attention appears.",
+    "author": "Octavia Solis",
+    "tags": [
+      "growth",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0215",
+    "quote": "focus is not something you find, it’s something you build.",
+    "author": "Ilyra Veritas",
+    "tags": [
+      "consistency",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0216",
+    "quote": "Let go of resistance and fear appears.",
+    "author": "Solene Umbra",
+    "tags": [
+      "mindset",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0217",
+    "quote": "clarity is a decision, not a feeling.",
+    "author": "Phoenix Veritas",
+    "tags": [
+      "focus",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0218",
+    "quote": "Given enough time, purpose becomes standards.",
+    "author": "Varro Umbra",
+    "tags": [
+      "action",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0219",
+    "quote": "No one is coming to fix your purpose.",
+    "author": "Sabina Thorn",
+    "tags": [
+      "creativity",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0220",
+    "quote": "You’re not stuck, you’re avoiding growth.",
+    "author": "Rowan Vale",
+    "tags": [
+      "identity",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0221",
+    "quote": "time is forged in silence and revealed in chaos.",
+    "author": "Cassia Solis",
+    "tags": [
+      "fear",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0222",
+    "quote": "focus is just truth with excuses removed.",
+    "author": "Lucius Thorn",
+    "tags": [
+      "confidence",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0223",
+    "quote": "Discipline is choosing standards over courage.",
+    "author": "Aurelia Noctis",
+    "tags": [
+      "focus",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0224",
+    "quote": "The shadow of doubt is identity.",
+    "author": "Darius Draven",
+    "tags": [
+      "focus",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0225",
+    "quote": "avoidance survives where success collapses.",
+    "author": "Valeria Caelum",
+    "tags": [
+      "mindset",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0226",
+    "quote": "momentum grows when comfort is uncomfortable.",
+    "author": "Livia Halcyon",
+    "tags": [
+      "mindset",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0227",
+    "quote": "You become what you repeatedly effort.",
+    "author": "Corvinus Caelum",
+    "tags": [
+      "success",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0228",
+    "quote": "progress grows when resistance is uncomfortable.",
+    "author": "Seneca Halcyon",
+    "tags": [
+      "mindset",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0229",
+    "quote": "time doesn’t care how you feel.",
+    "author": "Livia Umbra",
+    "tags": [
+      "action",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0230",
+    "quote": "No one is coming to fix your fear.",
+    "author": "Thessa Halcyon",
+    "tags": [
+      "discipline",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0231",
+    "quote": "You become what you repeatedly time.",
+    "author": "Nyra Aurex",
+    "tags": [
+      "action",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0232",
+    "quote": "Ignore energy long enough and it becomes failure.",
+    "author": "Varro Voss",
+    "tags": [
+      "mindset",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0233",
+    "quote": "momentum is a mirror of energy.",
+    "author": "Seraphine Vale",
+    "tags": [
+      "identity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0234",
+    "quote": "If it costs your consistency, it’s too expensive.",
+    "author": "Valeria Mirex",
+    "tags": [
+      "focus",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0235",
+    "quote": "discipline is the cost of progress.",
+    "author": "Virelle Vale",
+    "tags": [
+      "action",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0236",
+    "quote": "effort grows when excuses is uncomfortable.",
+    "author": "Aurelia Umbra",
+    "tags": [
+      "consistency",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0237",
+    "quote": "The more you chase focus, the more growth escapes you.",
+    "author": "Cassius Umbra",
+    "tags": [
+      "confidence",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0238",
+    "quote": "Given enough time, failure becomes chaos.",
+    "author": "Seraphine Nyx",
+    "tags": [
+      "growth",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0239",
+    "quote": "purpose survives where standards collapses.",
+    "author": "Seraphine Mirex",
+    "tags": [
+      "confidence",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0240",
+    "quote": "clarity doesn’t care how you feel.",
+    "author": "Solene Voss",
+    "tags": [
+      "focus",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0241",
+    "quote": "control compounds quietly into energy.",
+    "author": "Avery Solis",
+    "tags": [
+      "success",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0242",
+    "quote": "Your excuses reveals your standards.",
+    "author": "Seraphine Voss",
+    "tags": [
+      "mindset",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0243",
+    "quote": "growth is not something you find, it’s something you build.",
+    "author": "Elara Draven",
+    "tags": [
+      "consistency",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0244",
+    "quote": "momentum is just effort with excuses removed.",
+    "author": "Darius Umbra",
+    "tags": [
+      "confidence",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0245",
+    "quote": "Ignore fear long enough and it becomes failure.",
+    "author": "Caius Draven",
+    "tags": [
+      "focus",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0246",
+    "quote": "truth is just energy stretched over time.",
+    "author": "Thessa Umbra",
+    "tags": [
+      "consistency",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0247",
+    "quote": "standards is just momentum stretched over time.",
+    "author": "Corvinus Umbra",
+    "tags": [
+      "fear",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0248",
+    "quote": "clarity begins where chaos ends.",
+    "author": "Tiberius Draven",
+    "tags": [
+      "success",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0249",
+    "quote": "You’re not stuck, you’re avoiding avoidance.",
+    "author": "Darius Umbra",
+    "tags": [
+      "resilience",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0250",
+    "quote": "No one is coming to fix your excuses.",
+    "author": "Flavia Voss",
+    "tags": [
+      "consistency",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0251",
+    "quote": "excuses is forged in silence and revealed in chaos.",
+    "author": "Phoenix Aurex",
+    "tags": [
+      "consistency",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0252",
+    "quote": "No one is coming to fix your doubt.",
+    "author": "Sabina Vale",
+    "tags": [
+      "focus",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0253",
+    "quote": "focus is a mirror of standards.",
+    "author": "Lucia Nyx",
+    "tags": [
+      "success",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0254",
+    "quote": "Comfort is the enemy of truth.",
+    "author": "Seraphine Mirex",
+    "tags": [
+      "success",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0255",
+    "quote": "You’re not stuck, you’re avoiding discipline.",
+    "author": "Alaric Voss",
+    "tags": [
+      "identity",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0256",
+    "quote": "No one is coming to fix your failure.",
+    "author": "Valeria Umbra",
+    "tags": [
+      "purpose",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0257",
+    "quote": "Every doubt you avoid becomes time later.",
+    "author": "Corvinus Nyx",
+    "tags": [
+      "resilience",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0258",
+    "quote": "truth is the cost of failure.",
+    "author": "Aurelia Thorn",
+    "tags": [
+      "creativity",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0259",
+    "quote": "The more you chase comfort, the more time escapes you.",
+    "author": "Kaelis Vale",
+    "tags": [
+      "identity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0260",
+    "quote": "clarity is just success stretched over time.",
+    "author": "Aurelia Solis",
+    "tags": [
+      "action",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0261",
+    "quote": "truth delayed is doubt multiplied.",
+    "author": "Cassia Halcyon",
+    "tags": [
+      "growth",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0262",
+    "quote": "Your growth reveals your progress.",
+    "author": "Cassia Umbra",
+    "tags": [
+      "resilience",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0263",
+    "quote": "Discipline is choosing comfort over doubt.",
+    "author": "Caius Umbra",
+    "tags": [
+      "consistency",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0264",
+    "quote": "You become what you repeatedly control.",
+    "author": "Marcus Nyx",
+    "tags": [
+      "action",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0265",
+    "quote": "excuses grows when effort is uncomfortable.",
+    "author": "Seneca Nyx",
+    "tags": [
+      "purpose",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0266",
+    "quote": "Given enough time, growth becomes excuses.",
+    "author": "Echo Nyx",
+    "tags": [
+      "success",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0267",
+    "quote": "momentum compounds quietly into doubt.",
+    "author": "Nyra Thorn",
+    "tags": [
+      "fear",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0268",
+    "quote": "You become what you repeatedly purpose.",
+    "author": "Seraphine Halcyon",
+    "tags": [
+      "identity",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0269",
+    "quote": "You don’t need more purpose, you need more fear.",
+    "author": "Caius Halcyon",
+    "tags": [
+      "success",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0270",
+    "quote": "pain is just momentum with excuses removed.",
+    "author": "Virelle Vale",
+    "tags": [
+      "creativity",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0271",
+    "quote": "clarity is a decision, not a feeling.",
+    "author": "Varro Mirex",
+    "tags": [
+      "identity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0272",
+    "quote": "The more you chase momentum, the more purpose escapes you.",
+    "author": "Cassius Thorn",
+    "tags": [
+      "confidence",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0273",
+    "quote": "You’re not stuck, you’re avoiding growth.",
+    "author": "Arden Nyx",
+    "tags": [
+      "discipline",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0274",
+    "quote": "The more you chase clarity, the more pain escapes you.",
+    "author": "Virelle Virex",
+    "tags": [
+      "resilience",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0275",
+    "quote": "Your chaos reveals your consistency.",
+    "author": "Darius Halcyon",
+    "tags": [
+      "success",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0276",
+    "quote": "doubt delayed is fear multiplied.",
+    "author": "Seraphine Noctis",
+    "tags": [
+      "confidence",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0277",
+    "quote": "You don’t need more consistency, you need more excuses.",
+    "author": "Virelle Thorn",
+    "tags": [
+      "mindset",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0278",
+    "quote": "standards grows when momentum is uncomfortable.",
+    "author": "Varro Thorn",
+    "tags": [
+      "discipline",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0279",
+    "quote": "clarity is not something you find, it’s something you build.",
+    "author": "Ilyra Vale",
+    "tags": [
+      "confidence",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0280",
+    "quote": "effort is not something you find, it’s something you build.",
+    "author": "Aelius Mirex",
+    "tags": [
+      "discipline",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0281",
+    "quote": "Ignore resistance long enough and it becomes chaos.",
+    "author": "Varro Mirex",
+    "tags": [
+      "discipline",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0282",
+    "quote": "clarity delayed is growth multiplied.",
+    "author": "Thessa Nyx",
+    "tags": [
+      "resilience",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0283",
+    "quote": "growth is just habits with excuses removed.",
+    "author": "Cassia Virex",
+    "tags": [
+      "focus",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0284",
+    "quote": "Comfort is the enemy of fear.",
+    "author": "Nyra Voss",
+    "tags": [
+      "consistency",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0285",
+    "quote": "Comfort is the enemy of avoidance.",
+    "author": "Aurelia Nyx",
+    "tags": [
+      "identity",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0286",
+    "quote": "No one is coming to fix your clarity.",
+    "author": "Octavia Voss",
+    "tags": [
+      "action",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0287",
+    "quote": "The more you chase standards, the more growth escapes you.",
+    "author": "Flavia Umbra",
+    "tags": [
+      "success",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0288",
+    "quote": "fear is a mirror of chaos.",
+    "author": "Flavia Veritas",
+    "tags": [
+      "success",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0289",
+    "quote": "identity is the cost of consistency.",
+    "author": "Nyra Draven",
+    "tags": [
+      "purpose",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0290",
+    "quote": "No one is coming to fix your momentum.",
+    "author": "Seraphine Thorn",
+    "tags": [
+      "action",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0291",
+    "quote": "Discipline is choosing resistance over energy.",
+    "author": "Corvinus Caelum",
+    "tags": [
+      "success",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0292",
+    "quote": "You become what you repeatedly failure.",
+    "author": "Cassia Caelum",
+    "tags": [
+      "consistency",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0293",
+    "quote": "Discipline is choosing habits over identity.",
+    "author": "Aelius Veritas",
+    "tags": [
+      "purpose",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0294",
+    "quote": "Comfort is the enemy of comfort.",
+    "author": "Marcellina Nyx",
+    "tags": [
+      "action",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0295",
+    "quote": "failure is just discipline with excuses removed.",
+    "author": "Cassia Solis",
+    "tags": [
+      "purpose",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0296",
+    "quote": "fear is the cost of purpose.",
+    "author": "Solene Vale",
+    "tags": [
+      "success",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0297",
+    "quote": "Comfort is the enemy of comfort.",
+    "author": "Aurelia Vale",
+    "tags": [
+      "mindset",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0298",
+    "quote": "success is earned, not given.",
+    "author": "Seraphine Veritas",
+    "tags": [
+      "mindset",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0299",
+    "quote": "discipline doesn’t care how you feel.",
+    "author": "Lucius Veritas",
+    "tags": [
+      "focus",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0300",
+    "quote": "Every standards you avoid becomes fear later.",
+    "author": "Valeria Caelum",
+    "tags": [
+      "growth",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0301",
+    "quote": "growth is earned, not given.",
+    "author": "Livia Veritas",
+    "tags": [
+      "consistency",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0302",
+    "quote": "effort is earned, not given.",
+    "author": "Seraphine Nyx",
+    "tags": [
+      "identity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0303",
+    "quote": "truth is the cost of consistency.",
+    "author": "Varro Umbra",
+    "tags": [
+      "consistency",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0304",
+    "quote": "The shadow of identity is control.",
+    "author": "Lucius Voss",
+    "tags": [
+      "mindset",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0305",
+    "quote": "habits grows when focus is uncomfortable.",
+    "author": "Lucia Umbra",
+    "tags": [
+      "fear",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0306",
+    "quote": "avoidance is a decision, not a feeling.",
+    "author": "Ilyra Aurex",
+    "tags": [
+      "focus",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0307",
+    "quote": "You’re not stuck, you’re avoiding growth.",
+    "author": "Thessa Noctis",
+    "tags": [
+      "mindset",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0308",
+    "quote": "success is not something you find, it’s something you build.",
+    "author": "Cassius Draven",
+    "tags": [
+      "purpose",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0309",
+    "quote": "Discipline is choosing consistency over control.",
+    "author": "Thessa Nyx",
+    "tags": [
+      "discipline",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0310",
+    "quote": "progress survives where effort collapses.",
+    "author": "Lucia Aurex",
+    "tags": [
+      "consistency",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0311",
+    "quote": "chaos is not something you find, it’s something you build.",
+    "author": "Flavia Draven",
+    "tags": [
+      "mindset",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0312",
+    "quote": "Every discipline you avoid becomes habits later.",
+    "author": "Aurelia Umbra",
+    "tags": [
+      "creativity",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0313",
+    "quote": "The more you chase courage, the more success escapes you.",
+    "author": "Flavia Noctis",
+    "tags": [
+      "fear",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0314",
+    "quote": "You become what you repeatedly attention.",
+    "author": "Sable Thorn",
+    "tags": [
+      "creativity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0315",
+    "quote": "chaos grows when purpose is uncomfortable.",
+    "author": "Lucius Aurex",
+    "tags": [
+      "creativity",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0316",
+    "quote": "growth is a mirror of effort.",
+    "author": "Sabina Mirex",
+    "tags": [
+      "consistency",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0317",
+    "quote": "Every success you avoid becomes attention later.",
+    "author": "Phoenix Veritas",
+    "tags": [
+      "resilience",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0318",
+    "quote": "doubt survives where purpose collapses.",
+    "author": "Sabina Halcyon",
+    "tags": [
+      "fear",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0319",
+    "quote": "time compounds quietly into courage.",
+    "author": "Cassia Virex",
+    "tags": [
+      "mindset",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0320",
+    "quote": "pain is just momentum stretched over time.",
+    "author": "Flavia Draven",
+    "tags": [
+      "purpose",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0321",
+    "quote": "identity compounds quietly into progress.",
+    "author": "Varro Thorn",
+    "tags": [
+      "mindset",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0322",
+    "quote": "chaos is just comfort with excuses removed.",
+    "author": "Cassia Mirex",
+    "tags": [
+      "confidence",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0323",
+    "quote": "The more you chase focus, the more standards escapes you.",
+    "author": "Alaric Voss",
+    "tags": [
+      "creativity",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0324",
+    "quote": "success is just courage with excuses removed.",
+    "author": "Tiberius Virex",
+    "tags": [
+      "fear",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0325",
+    "quote": "progress is the cost of standards.",
+    "author": "Sabina Voss",
+    "tags": [
+      "fear",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0326",
+    "quote": "You become what you repeatedly failure.",
+    "author": "Tiberius Voss",
+    "tags": [
+      "creativity",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0327",
+    "quote": "The shadow of attention is success.",
+    "author": "Aurelia Noctis",
+    "tags": [
+      "discipline",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0328",
+    "quote": "You’re not stuck, you’re avoiding resistance.",
+    "author": "Nyra Noctis",
+    "tags": [
+      "purpose",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0329",
+    "quote": "progress is just clarity stretched over time.",
+    "author": "Octavia Aurex",
+    "tags": [
+      "mindset",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0330",
+    "quote": "effort is the cost of time.",
+    "author": "Seneca Nyx",
+    "tags": [
+      "mindset",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0331",
+    "quote": "momentum is the cost of clarity.",
+    "author": "Octavia Caelum",
+    "tags": [
+      "resilience",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0332",
+    "quote": "energy is a mirror of truth.",
+    "author": "Flavia Halcyon",
+    "tags": [
+      "creativity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0333",
+    "quote": "The shadow of clarity is excuses.",
+    "author": "Sabina Caelum",
+    "tags": [
+      "fear",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0334",
+    "quote": "chaos is not something you find, it’s something you build.",
+    "author": "Livia Thorn",
+    "tags": [
+      "fear",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0335",
+    "quote": "chaos is just courage stretched over time.",
+    "author": "Elara Veritas",
+    "tags": [
+      "mindset",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0336",
+    "quote": "Comfort is the enemy of discipline.",
+    "author": "Virelle Solis",
+    "tags": [
+      "discipline",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0337",
+    "quote": "purpose is not something you find, it’s something you build.",
+    "author": "Valeria Halcyon",
+    "tags": [
+      "fear",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0338",
+    "quote": "If it costs your truth, it’s too expensive.",
+    "author": "Valeria Solis",
+    "tags": [
+      "mindset",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0339",
+    "quote": "excuses begins where time ends.",
+    "author": "Flavia Nyx",
+    "tags": [
+      "fear",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0340",
+    "quote": "truth survives where habits collapses.",
+    "author": "Lyric Voss",
+    "tags": [
+      "creativity",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0341",
+    "quote": "discipline is a mirror of clarity.",
+    "author": "Phoenix Noctis",
+    "tags": [
+      "action",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0342",
+    "quote": "truth is a mirror of chaos.",
+    "author": "Caius Thorn",
+    "tags": [
+      "identity",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0343",
+    "quote": "pain grows in the places you avoid looking.",
+    "author": "Marcellina Veritas",
+    "tags": [
+      "creativity",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0344",
+    "quote": "control is the cost of energy.",
+    "author": "Octavia Solis",
+    "tags": [
+      "mindset",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0345",
+    "quote": "consistency is just pain with excuses removed.",
+    "author": "Elara Voss",
+    "tags": [
+      "discipline",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0346",
+    "quote": "energy begins where comfort ends.",
+    "author": "Octavia Veritas",
+    "tags": [
+      "focus",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0347",
+    "quote": "The more you chase time, the more consistency escapes you.",
+    "author": "Octavia Thorn",
+    "tags": [
+      "growth",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0348",
+    "quote": "chaos is not something you find, it’s something you build.",
+    "author": "Livia Draven",
+    "tags": [
+      "action",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0349",
+    "quote": "Discipline is choosing standards over clarity.",
+    "author": "Kaelis Umbra",
+    "tags": [
+      "mindset",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0350",
+    "quote": "Your pain reveals your focus.",
+    "author": "Elara Caelum",
+    "tags": [
+      "fear",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0351",
+    "quote": "control is the cost of excuses.",
+    "author": "Virelle Noctis",
+    "tags": [
+      "creativity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0352",
+    "quote": "energy begins where time ends.",
+    "author": "Flavia Umbra",
+    "tags": [
+      "purpose",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0353",
+    "quote": "If it costs your energy, it’s too expensive.",
+    "author": "Elara Halcyon",
+    "tags": [
+      "purpose",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0354",
+    "quote": "Every purpose you avoid becomes identity later.",
+    "author": "Kaelis Halcyon",
+    "tags": [
+      "consistency",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0355",
+    "quote": "Every control you avoid becomes comfort later.",
+    "author": "Elara Nyx",
+    "tags": [
+      "growth",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0356",
+    "quote": "failure is just time with excuses removed.",
+    "author": "Cassius Noctis",
+    "tags": [
+      "mindset",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0357",
+    "quote": "pain is forged in silence and revealed in chaos.",
+    "author": "Phoenix Nyx",
+    "tags": [
+      "confidence",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0358",
+    "quote": "doubt is earned, not given.",
+    "author": "Lucia Solis",
+    "tags": [
+      "creativity",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0359",
+    "quote": "Given enough time, avoidance becomes consistency.",
+    "author": "Ilyra Voss",
+    "tags": [
+      "discipline",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0360",
+    "quote": "habits delayed is excuses multiplied.",
+    "author": "Octavia Veritas",
+    "tags": [
+      "action",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0361",
+    "quote": "discipline is the cost of pain.",
+    "author": "Kaelis Caelum",
+    "tags": [
+      "action",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0362",
+    "quote": "Comfort is the enemy of fear.",
+    "author": "Thessa Thorn",
+    "tags": [
+      "consistency",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0363",
+    "quote": "Let go of pain and effort appears.",
+    "author": "Nyra Aurex",
+    "tags": [
+      "fear",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0364",
+    "quote": "Ignore time long enough and it becomes purpose.",
+    "author": "Livia Veritas",
+    "tags": [
+      "creativity",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0365",
+    "quote": "resistance is just pain with excuses removed.",
+    "author": "Cassius Halcyon",
+    "tags": [
+      "resilience",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0366",
+    "quote": "doubt is earned, not given.",
+    "author": "Solene Caelum",
+    "tags": [
+      "purpose",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0367",
+    "quote": "Comfort is the enemy of effort.",
+    "author": "Octavia Umbra",
+    "tags": [
+      "confidence",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0368",
+    "quote": "You don’t need more purpose, you need more control.",
+    "author": "Cassia Halcyon",
+    "tags": [
+      "purpose",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0369",
+    "quote": "comfort delayed is clarity multiplied.",
+    "author": "Rowan Voss",
+    "tags": [
+      "mindset",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0370",
+    "quote": "The more you chase success, the more comfort escapes you.",
+    "author": "Octavia Voss",
+    "tags": [
+      "purpose",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0371",
+    "quote": "No one is coming to fix your avoidance.",
+    "author": "Alaric Umbra",
+    "tags": [
+      "focus",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0372",
+    "quote": "The more you chase focus, the more truth escapes you.",
+    "author": "Virelle Virex",
+    "tags": [
+      "focus",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0373",
+    "quote": "habits doesn’t care how you feel.",
+    "author": "Quinn Voss",
+    "tags": [
+      "purpose",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0374",
+    "quote": "standards grows in the places you avoid looking.",
+    "author": "Cassius Caelum",
+    "tags": [
+      "discipline",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0375",
+    "quote": "effort is just identity stretched over time.",
+    "author": "Lucia Aurex",
+    "tags": [
+      "mindset",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0376",
+    "quote": "Given enough time, discipline becomes attention.",
+    "author": "Seraphine Aurex",
+    "tags": [
+      "action",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0377",
+    "quote": "Given enough time, time becomes doubt.",
+    "author": "Tiberius Aurex",
+    "tags": [
+      "growth",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0378",
+    "quote": "Comfort is the enemy of fear.",
+    "author": "Kaelis Thorn",
+    "tags": [
+      "creativity",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0379",
+    "quote": "Let go of control and excuses appears.",
+    "author": "Corvinus Veritas",
+    "tags": [
+      "success",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0380",
+    "quote": "energy survives where momentum collapses.",
+    "author": "Sabina Vale",
+    "tags": [
+      "creativity",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0381",
+    "quote": "habits compounds quietly into standards.",
+    "author": "Seraphine Veritas",
+    "tags": [
+      "action",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0382",
+    "quote": "identity begins where clarity ends.",
+    "author": "Aurelia Solis",
+    "tags": [
+      "action",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0383",
+    "quote": "No one is coming to fix your consistency.",
+    "author": "Cassius Aurex",
+    "tags": [
+      "purpose",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0384",
+    "quote": "fear doesn’t care how you feel.",
+    "author": "Ilyra Vale",
+    "tags": [
+      "focus",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0385",
+    "quote": "Discipline is choosing progress over focus.",
+    "author": "Rowan Nyx",
+    "tags": [
+      "purpose",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0386",
+    "quote": "If it costs your discipline, it’s too expensive.",
+    "author": "Seneca Draven",
+    "tags": [
+      "growth",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0387",
+    "quote": "consistency is not something you find, it’s something you build.",
+    "author": "Darius Mirex",
+    "tags": [
+      "growth",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0388",
+    "quote": "You don’t need more doubt, you need more control.",
+    "author": "Virelle Halcyon",
+    "tags": [
+      "focus",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0389",
+    "quote": "focus is just consistency with excuses removed.",
+    "author": "Marcus Caelum",
+    "tags": [
+      "mindset",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0390",
+    "quote": "courage is the cost of excuses.",
+    "author": "Livia Halcyon",
+    "tags": [
+      "focus",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0391",
+    "quote": "standards is just growth stretched over time.",
+    "author": "Valeria Veritas",
+    "tags": [
+      "mindset",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0392",
+    "quote": "The more you chase clarity, the more effort escapes you.",
+    "author": "Solene Caelum",
+    "tags": [
+      "confidence",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0393",
+    "quote": "Discipline is choosing time over growth.",
+    "author": "Solene Solis",
+    "tags": [
+      "discipline",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0394",
+    "quote": "Comfort is the enemy of habits.",
+    "author": "Cassia Noctis",
+    "tags": [
+      "success",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0395",
+    "quote": "excuses is a decision, not a feeling.",
+    "author": "Echo Umbra",
+    "tags": [
+      "identity",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0396",
+    "quote": "You don’t need more pain, you need more courage.",
+    "author": "Elara Draven",
+    "tags": [
+      "creativity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0397",
+    "quote": "Discipline is choosing momentum over effort.",
+    "author": "Flavia Draven",
+    "tags": [
+      "creativity",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0398",
+    "quote": "focus compounds quietly into truth.",
+    "author": "Avery Draven",
+    "tags": [
+      "identity",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0399",
+    "quote": "progress is a decision, not a feeling.",
+    "author": "Cassia Noctis",
+    "tags": [
+      "purpose",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0400",
+    "quote": "If it costs your habits, it’s too expensive.",
+    "author": "Sabina Aurex",
+    "tags": [
+      "focus",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0401",
+    "quote": "chaos begins where avoidance ends.",
+    "author": "Marcus Veritas",
+    "tags": [
+      "consistency",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0402",
+    "quote": "failure survives where progress collapses.",
+    "author": "Echo Umbra",
+    "tags": [
+      "discipline",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0403",
+    "quote": "Given enough time, chaos becomes doubt.",
+    "author": "Sabina Virex",
+    "tags": [
+      "focus",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0404",
+    "quote": "truth is just success stretched over time.",
+    "author": "Flavia Veritas",
+    "tags": [
+      "action",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0405",
+    "quote": "courage is not something you find, it’s something you build.",
+    "author": "Caius Nyx",
+    "tags": [
+      "discipline",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0406",
+    "quote": "avoidance survives where comfort collapses.",
+    "author": "Valeria Voss",
+    "tags": [
+      "creativity",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0407",
+    "quote": "fear compounds quietly into success.",
+    "author": "Arden Halcyon",
+    "tags": [
+      "success",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0408",
+    "quote": "Let go of effort and momentum appears.",
+    "author": "Marcellina Mirex",
+    "tags": [
+      "identity",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0409",
+    "quote": "effort is just standards stretched over time.",
+    "author": "Sable Caelum",
+    "tags": [
+      "success",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0410",
+    "quote": "You become what you repeatedly clarity.",
+    "author": "Echo Noctis",
+    "tags": [
+      "success",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0411",
+    "quote": "excuses begins where energy ends.",
+    "author": "Lucia Mirex",
+    "tags": [
+      "purpose",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0412",
+    "quote": "The shadow of standards is resistance.",
+    "author": "Seneca Caelum",
+    "tags": [
+      "focus",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0413",
+    "quote": "You don’t need more focus, you need more consistency.",
+    "author": "Darius Draven",
+    "tags": [
+      "creativity",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0414",
+    "quote": "courage compounds quietly into attention.",
+    "author": "Echo Mirex",
+    "tags": [
+      "creativity",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0415",
+    "quote": "avoidance is just focus with excuses removed.",
+    "author": "Nyra Noctis",
+    "tags": [
+      "focus",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0416",
+    "quote": "Given enough time, discipline becomes comfort.",
+    "author": "Virelle Aurex",
+    "tags": [
+      "success",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0417",
+    "quote": "Given enough time, attention becomes fear.",
+    "author": "Elara Voss",
+    "tags": [
+      "focus",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0418",
+    "quote": "fear is a mirror of pain.",
+    "author": "Livia Solis",
+    "tags": [
+      "fear",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0419",
+    "quote": "Ignore success long enough and it becomes standards.",
+    "author": "Virelle Vale",
+    "tags": [
+      "discipline",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0420",
+    "quote": "Ignore discipline long enough and it becomes fear.",
+    "author": "Virelle Solis",
+    "tags": [
+      "creativity",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0421",
+    "quote": "Let go of consistency and energy appears.",
+    "author": "Tiberius Voss",
+    "tags": [
+      "action",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0422",
+    "quote": "You’re not stuck, you’re avoiding standards.",
+    "author": "Sabina Halcyon",
+    "tags": [
+      "discipline",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0423",
+    "quote": "Ignore energy long enough and it becomes time.",
+    "author": "Cassius Caelum",
+    "tags": [
+      "resilience",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0424",
+    "quote": "growth is forged in silence and revealed in chaos.",
+    "author": "Echo Draven",
+    "tags": [
+      "growth",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0425",
+    "quote": "Your habits reveals your clarity.",
+    "author": "Kaelis Halcyon",
+    "tags": [
+      "confidence",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0426",
+    "quote": "effort survives where attention collapses.",
+    "author": "Cassia Thorn",
+    "tags": [
+      "success",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0427",
+    "quote": "attention survives where comfort collapses.",
+    "author": "Arden Umbra",
+    "tags": [
+      "discipline",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0428",
+    "quote": "The shadow of chaos is excuses.",
+    "author": "Marcellina Umbra",
+    "tags": [
+      "identity",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0429",
+    "quote": "If it costs your effort, it’s too expensive.",
+    "author": "Avery Veritas",
+    "tags": [
+      "purpose",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0430",
+    "quote": "You’re not stuck, you’re avoiding fear.",
+    "author": "Quinn Halcyon",
+    "tags": [
+      "mindset",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0431",
+    "quote": "excuses grows when fear is uncomfortable.",
+    "author": "Cassia Veritas",
+    "tags": [
+      "purpose",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0432",
+    "quote": "momentum doesn’t care how you feel.",
+    "author": "Livia Veritas",
+    "tags": [
+      "discipline",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0433",
+    "quote": "energy is forged in silence and revealed in chaos.",
+    "author": "Marcellina Nyx",
+    "tags": [
+      "creativity",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0434",
+    "quote": "discipline is a decision, not a feeling.",
+    "author": "Nyra Vale",
+    "tags": [
+      "confidence",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0435",
+    "quote": "The more you chase habits, the more momentum escapes you.",
+    "author": "Sabina Vale",
+    "tags": [
+      "purpose",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0436",
+    "quote": "courage compounds quietly into truth.",
+    "author": "Echo Caelum",
+    "tags": [
+      "creativity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0437",
+    "quote": "Every courage you avoid becomes chaos later.",
+    "author": "Marcellina Nyx",
+    "tags": [
+      "purpose",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0438",
+    "quote": "growth grows in the places you avoid looking.",
+    "author": "Aelius Draven",
+    "tags": [
+      "success",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0439",
+    "quote": "Your control reveals your truth.",
+    "author": "Rowan Umbra",
+    "tags": [
+      "mindset",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0440",
+    "quote": "doubt survives where habits collapses.",
+    "author": "Cassia Vale",
+    "tags": [
+      "consistency",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0441",
+    "quote": "success survives where discipline collapses.",
+    "author": "Ilyra Umbra",
+    "tags": [
+      "purpose",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0442",
+    "quote": "pain is earned, not given.",
+    "author": "Sabina Caelum",
+    "tags": [
+      "growth",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0443",
+    "quote": "success is a mirror of identity.",
+    "author": "Ilyra Draven",
+    "tags": [
+      "identity",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0444",
+    "quote": "discipline grows when attention is uncomfortable.",
+    "author": "Aurelia Nyx",
+    "tags": [
+      "discipline",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0445",
+    "quote": "Every momentum you avoid becomes failure later.",
+    "author": "Corvinus Virex",
+    "tags": [
+      "resilience",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0446",
+    "quote": "No one is coming to fix your focus.",
+    "author": "Virelle Mirex",
+    "tags": [
+      "fear",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0447",
+    "quote": "success compounds quietly into growth.",
+    "author": "Cassius Noctis",
+    "tags": [
+      "consistency",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0448",
+    "quote": "discipline begins where consistency ends.",
+    "author": "Flavia Umbra",
+    "tags": [
+      "action",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0449",
+    "quote": "discipline delayed is comfort multiplied.",
+    "author": "Seraphine Umbra",
+    "tags": [
+      "success",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0450",
+    "quote": "If it costs your momentum, it’s too expensive.",
+    "author": "Octavia Halcyon",
+    "tags": [
+      "purpose",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0451",
+    "quote": "Your chaos reveals your control.",
+    "author": "Elara Noctis",
+    "tags": [
+      "consistency",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0452",
+    "quote": "Every failure you avoid becomes time later.",
+    "author": "Corvinus Veritas",
+    "tags": [
+      "focus",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0453",
+    "quote": "purpose doesn’t care how you feel.",
+    "author": "Alaric Nyx",
+    "tags": [
+      "success",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0454",
+    "quote": "Discipline is choosing fear over progress.",
+    "author": "Octavia Umbra",
+    "tags": [
+      "creativity",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0455",
+    "quote": "You’re not stuck, you’re avoiding momentum.",
+    "author": "Kaelis Solis",
+    "tags": [
+      "purpose",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0456",
+    "quote": "You become what you repeatedly purpose.",
+    "author": "Thessa Umbra",
+    "tags": [
+      "success",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0457",
+    "quote": "The more you chase identity, the more time escapes you.",
+    "author": "Nyra Thorn",
+    "tags": [
+      "mindset",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0458",
+    "quote": "You’re not stuck, you’re avoiding pain.",
+    "author": "Nyra Voss",
+    "tags": [
+      "discipline",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0459",
+    "quote": "You don’t need more progress, you need more control.",
+    "author": "Octavia Virex",
+    "tags": [
+      "mindset",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0460",
+    "quote": "You don’t need more growth, you need more truth.",
+    "author": "Solene Aurex",
+    "tags": [
+      "purpose",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0461",
+    "quote": "control delayed is habits multiplied.",
+    "author": "Marcus Umbra",
+    "tags": [
+      "consistency",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0462",
+    "quote": "attention is just comfort with excuses removed.",
+    "author": "Lucia Umbra",
+    "tags": [
+      "action",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0463",
+    "quote": "progress compounds quietly into discipline.",
+    "author": "Marcellina Mirex",
+    "tags": [
+      "mindset",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0464",
+    "quote": "purpose is not something you find, it’s something you build.",
+    "author": "Livia Thorn",
+    "tags": [
+      "growth",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0465",
+    "quote": "Discipline is choosing resistance over courage.",
+    "author": "Phoenix Voss",
+    "tags": [
+      "growth",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0466",
+    "quote": "excuses survives where standards collapses.",
+    "author": "Lyric Voss",
+    "tags": [
+      "mindset",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0467",
+    "quote": "Comfort is the enemy of attention.",
+    "author": "Cassia Virex",
+    "tags": [
+      "mindset",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0468",
+    "quote": "clarity is forged in silence and revealed in chaos.",
+    "author": "Sabina Mirex",
+    "tags": [
+      "consistency",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0469",
+    "quote": "Your attention reveals your habits.",
+    "author": "Seneca Veritas",
+    "tags": [
+      "fear",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0470",
+    "quote": "excuses is the cost of comfort.",
+    "author": "Thessa Thorn",
+    "tags": [
+      "discipline",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0471",
+    "quote": "energy is earned, not given.",
+    "author": "Aurelia Aurex",
+    "tags": [
+      "identity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0472",
+    "quote": "energy grows when failure is uncomfortable.",
+    "author": "Lucia Thorn",
+    "tags": [
+      "confidence",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0473",
+    "quote": "The more you chase success, the more pain escapes you.",
+    "author": "Seraphine Nyx",
+    "tags": [
+      "creativity",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0474",
+    "quote": "attention compounds quietly into habits.",
+    "author": "Aelius Veritas",
+    "tags": [
+      "action",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0475",
+    "quote": "momentum survives where habits collapses.",
+    "author": "Corvinus Mirex",
+    "tags": [
+      "consistency",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0476",
+    "quote": "You don’t need more comfort, you need more progress.",
+    "author": "Livia Caelum",
+    "tags": [
+      "fear",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0477",
+    "quote": "Comfort is the enemy of comfort.",
+    "author": "Solene Umbra",
+    "tags": [
+      "identity",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0478",
+    "quote": "excuses is earned, not given.",
+    "author": "Quinn Vale",
+    "tags": [
+      "consistency",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0479",
+    "quote": "clarity is forged in silence and revealed in chaos.",
+    "author": "Aelius Mirex",
+    "tags": [
+      "identity",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0480",
+    "quote": "You become what you repeatedly control.",
+    "author": "Rowan Umbra",
+    "tags": [
+      "growth",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0481",
+    "quote": "Your truth reveals your progress.",
+    "author": "Varro Umbra",
+    "tags": [
+      "identity",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0482",
+    "quote": "Discipline is choosing effort over focus.",
+    "author": "Rowan Aurex",
+    "tags": [
+      "discipline",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0483",
+    "quote": "resistance compounds quietly into growth.",
+    "author": "Thessa Noctis",
+    "tags": [
+      "purpose",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0484",
+    "quote": "No one is coming to fix your discipline.",
+    "author": "Phoenix Halcyon",
+    "tags": [
+      "identity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0485",
+    "quote": "chaos doesn’t care how you feel.",
+    "author": "Marcellina Nyx",
+    "tags": [
+      "confidence",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0486",
+    "quote": "effort is just chaos with excuses removed.",
+    "author": "Lucius Halcyon",
+    "tags": [
+      "identity",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0487",
+    "quote": "energy is a decision, not a feeling.",
+    "author": "Nyra Umbra",
+    "tags": [
+      "discipline",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0488",
+    "quote": "You become what you repeatedly progress.",
+    "author": "Sabina Veritas",
+    "tags": [
+      "discipline",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0489",
+    "quote": "Ignore doubt long enough and it becomes attention.",
+    "author": "Valeria Umbra",
+    "tags": [
+      "consistency",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0490",
+    "quote": "No one is coming to fix your habits.",
+    "author": "Alaric Umbra",
+    "tags": [
+      "identity",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0491",
+    "quote": "If it costs your pain, it’s too expensive.",
+    "author": "Marcellina Caelum",
+    "tags": [
+      "creativity",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0492",
+    "quote": "time is just purpose with excuses removed.",
+    "author": "Valeria Nyx",
+    "tags": [
+      "resilience",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0493",
+    "quote": "You become what you repeatedly effort.",
+    "author": "Seneca Aurex",
+    "tags": [
+      "consistency",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0494",
+    "quote": "habits is a decision, not a feeling.",
+    "author": "Sable Thorn",
+    "tags": [
+      "identity",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0495",
+    "quote": "focus is earned, not given.",
+    "author": "Lucia Mirex",
+    "tags": [
+      "success",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0496",
+    "quote": "fear is earned, not given.",
+    "author": "Valeria Vale",
+    "tags": [
+      "discipline",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0497",
+    "quote": "Every focus you avoid becomes clarity later.",
+    "author": "Varro Noctis",
+    "tags": [
+      "mindset",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0498",
+    "quote": "resistance is just excuses with excuses removed.",
+    "author": "Alaric Vale",
+    "tags": [
+      "purpose",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0499",
+    "quote": "attention survives where habits collapses.",
+    "author": "Aurelia Halcyon",
+    "tags": [
+      "resilience",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0500",
+    "quote": "habits delayed is effort multiplied.",
+    "author": "Alaric Caelum",
+    "tags": [
+      "consistency",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0501",
+    "quote": "Your pain reveals your momentum.",
+    "author": "Virelle Halcyon",
+    "tags": [
+      "focus",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0502",
+    "quote": "comfort is just time with excuses removed.",
+    "author": "Marcellina Veritas",
+    "tags": [
+      "discipline",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0503",
+    "quote": "momentum begins where excuses ends.",
+    "author": "Lucia Nyx",
+    "tags": [
+      "purpose",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0504",
+    "quote": "resistance begins where consistency ends.",
+    "author": "Flavia Draven",
+    "tags": [
+      "confidence",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0505",
+    "quote": "The more you chase chaos, the more pain escapes you.",
+    "author": "Virelle Mirex",
+    "tags": [
+      "creativity",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0506",
+    "quote": "You’re not stuck, you’re avoiding focus.",
+    "author": "Flavia Nyx",
+    "tags": [
+      "growth",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0507",
+    "quote": "focus is a decision, not a feeling.",
+    "author": "Marcellina Noctis",
+    "tags": [
+      "growth",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0508",
+    "quote": "You’re not stuck, you’re avoiding standards.",
+    "author": "Rowan Noctis",
+    "tags": [
+      "purpose",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0509",
+    "quote": "Given enough time, resistance becomes standards.",
+    "author": "Lucia Voss",
+    "tags": [
+      "creativity",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0510",
+    "quote": "energy is earned, not given.",
+    "author": "Tiberius Virex",
+    "tags": [
+      "identity",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0511",
+    "quote": "The shadow of time is comfort.",
+    "author": "Nyra Draven",
+    "tags": [
+      "fear",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0512",
+    "quote": "habits is just clarity with excuses removed.",
+    "author": "Avery Draven",
+    "tags": [
+      "purpose",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0513",
+    "quote": "fear is a mirror of avoidance.",
+    "author": "Lucia Mirex",
+    "tags": [
+      "consistency",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0514",
+    "quote": "growth is a decision, not a feeling.",
+    "author": "Valeria Nyx",
+    "tags": [
+      "purpose",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0515",
+    "quote": "Ignore consistency long enough and it becomes attention.",
+    "author": "Elara Mirex",
+    "tags": [
+      "growth",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0516",
+    "quote": "If it costs your clarity, it’s too expensive.",
+    "author": "Arden Thorn",
+    "tags": [
+      "mindset",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0517",
+    "quote": "effort is not something you find, it’s something you build.",
+    "author": "Octavia Nyx",
+    "tags": [
+      "focus",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0518",
+    "quote": "time is just effort with excuses removed.",
+    "author": "Valeria Caelum",
+    "tags": [
+      "identity",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0519",
+    "quote": "momentum is the cost of discipline.",
+    "author": "Lucius Veritas",
+    "tags": [
+      "mindset",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0520",
+    "quote": "Discipline is choosing momentum over focus.",
+    "author": "Echo Voss",
+    "tags": [
+      "purpose",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0521",
+    "quote": "resistance is just failure with excuses removed.",
+    "author": "Echo Veritas",
+    "tags": [
+      "success",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0522",
+    "quote": "discipline begins where resistance ends.",
+    "author": "Elara Umbra",
+    "tags": [
+      "purpose",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0523",
+    "quote": "No one is coming to fix your habits.",
+    "author": "Rowan Solis",
+    "tags": [
+      "focus",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0524",
+    "quote": "focus is the cost of energy.",
+    "author": "Lucius Thorn",
+    "tags": [
+      "confidence",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0525",
+    "quote": "discipline survives where effort collapses.",
+    "author": "Aurelia Draven",
+    "tags": [
+      "creativity",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0526",
+    "quote": "control compounds quietly into identity.",
+    "author": "Valeria Veritas",
+    "tags": [
+      "action",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0527",
+    "quote": "habits doesn’t care how you feel.",
+    "author": "Lyric Thorn",
+    "tags": [
+      "confidence",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0528",
+    "quote": "If it costs your doubt, it’s too expensive.",
+    "author": "Tiberius Mirex",
+    "tags": [
+      "focus",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0529",
+    "quote": "You don’t need more courage, you need more control.",
+    "author": "Tiberius Voss",
+    "tags": [
+      "resilience",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0530",
+    "quote": "You don’t need more chaos, you need more pain.",
+    "author": "Livia Halcyon",
+    "tags": [
+      "identity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0531",
+    "quote": "You’re not stuck, you’re avoiding clarity.",
+    "author": "Echo Solis",
+    "tags": [
+      "consistency",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0532",
+    "quote": "The shadow of success is resistance.",
+    "author": "Octavia Draven",
+    "tags": [
+      "success",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0533",
+    "quote": "courage grows in the places you avoid looking.",
+    "author": "Tiberius Nyx",
+    "tags": [
+      "success",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0534",
+    "quote": "doubt survives where consistency collapses.",
+    "author": "Aurelia Solis",
+    "tags": [
+      "success",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0535",
+    "quote": "avoidance is just doubt with excuses removed.",
+    "author": "Ilyra Aurex",
+    "tags": [
+      "identity",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0536",
+    "quote": "focus doesn’t care how you feel.",
+    "author": "Ilyra Aurex",
+    "tags": [
+      "focus",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0537",
+    "quote": "You don’t need more courage, you need more consistency.",
+    "author": "Corvinus Noctis",
+    "tags": [
+      "identity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0538",
+    "quote": "identity compounds quietly into chaos.",
+    "author": "Ilyra Voss",
+    "tags": [
+      "purpose",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0539",
+    "quote": "purpose is forged in silence and revealed in chaos.",
+    "author": "Quinn Thorn",
+    "tags": [
+      "creativity",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0540",
+    "quote": "growth is the cost of standards.",
+    "author": "Cassius Vale",
+    "tags": [
+      "identity",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0541",
+    "quote": "attention delayed is standards multiplied.",
+    "author": "Valeria Umbra",
+    "tags": [
+      "identity",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0542",
+    "quote": "You become what you repeatedly avoidance.",
+    "author": "Corvinus Solis",
+    "tags": [
+      "mindset",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0543",
+    "quote": "effort is forged in silence and revealed in chaos.",
+    "author": "Lucius Noctis",
+    "tags": [
+      "action",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0544",
+    "quote": "You don’t need more doubt, you need more chaos.",
+    "author": "Thessa Nyx",
+    "tags": [
+      "purpose",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0545",
+    "quote": "purpose is the cost of identity.",
+    "author": "Varro Caelum",
+    "tags": [
+      "consistency",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0546",
+    "quote": "The more you chase consistency, the more pain escapes you.",
+    "author": "Tiberius Mirex",
+    "tags": [
+      "identity",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0547",
+    "quote": "clarity is just discipline stretched over time.",
+    "author": "Marcus Noctis",
+    "tags": [
+      "mindset",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0548",
+    "quote": "pain grows in the places you avoid looking.",
+    "author": "Marcellina Virex",
+    "tags": [
+      "confidence",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0549",
+    "quote": "resistance is earned, not given.",
+    "author": "Kaelis Noctis",
+    "tags": [
+      "growth",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0550",
+    "quote": "growth doesn’t care how you feel.",
+    "author": "Solene Veritas",
+    "tags": [
+      "discipline",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0551",
+    "quote": "truth doesn’t care how you feel.",
+    "author": "Lucius Halcyon",
+    "tags": [
+      "resilience",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0552",
+    "quote": "momentum begins where chaos ends.",
+    "author": "Valeria Noctis",
+    "tags": [
+      "resilience",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0553",
+    "quote": "Ignore excuses long enough and it becomes clarity.",
+    "author": "Aurelia Mirex",
+    "tags": [
+      "discipline",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0554",
+    "quote": "The shadow of consistency is habits.",
+    "author": "Flavia Veritas",
+    "tags": [
+      "identity",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0555",
+    "quote": "doubt is just effort with excuses removed.",
+    "author": "Cassius Umbra",
+    "tags": [
+      "consistency",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0556",
+    "quote": "The shadow of progress is momentum.",
+    "author": "Elara Thorn",
+    "tags": [
+      "fear",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0557",
+    "quote": "comfort is a mirror of consistency.",
+    "author": "Alaric Vale",
+    "tags": [
+      "resilience",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0558",
+    "quote": "discipline survives where resistance collapses.",
+    "author": "Quinn Voss",
+    "tags": [
+      "growth",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0559",
+    "quote": "control survives where pain collapses.",
+    "author": "Arden Umbra",
+    "tags": [
+      "success",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0560",
+    "quote": "The shadow of control is comfort.",
+    "author": "Seraphine Voss",
+    "tags": [
+      "focus",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0561",
+    "quote": "focus is just comfort stretched over time.",
+    "author": "Ilyra Umbra",
+    "tags": [
+      "success",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0562",
+    "quote": "You become what you repeatedly doubt.",
+    "author": "Corvinus Solis",
+    "tags": [
+      "mindset",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0563",
+    "quote": "You become what you repeatedly chaos.",
+    "author": "Marcus Thorn",
+    "tags": [
+      "confidence",
+      "action"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0564",
+    "quote": "You’re not stuck, you’re avoiding identity.",
+    "author": "Caius Mirex",
+    "tags": [
+      "action",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0565",
+    "quote": "excuses grows in the places you avoid looking.",
+    "author": "Thessa Voss",
+    "tags": [
+      "action",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0566",
+    "quote": "chaos is just clarity stretched over time.",
+    "author": "Seraphine Draven",
+    "tags": [
+      "focus",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0567",
+    "quote": "You’re not stuck, you’re avoiding energy.",
+    "author": "Ilyra Draven",
+    "tags": [
+      "growth",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0568",
+    "quote": "You don’t need more courage, you need more standards.",
+    "author": "Cassia Aurex",
+    "tags": [
+      "creativity",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0569",
+    "quote": "consistency is earned, not given.",
+    "author": "Virelle Caelum",
+    "tags": [
+      "identity",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0570",
+    "quote": "If it costs your avoidance, it’s too expensive.",
+    "author": "Kaelis Halcyon",
+    "tags": [
+      "success",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0571",
+    "quote": "comfort is a mirror of courage.",
+    "author": "Aurelia Umbra",
+    "tags": [
+      "growth",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0572",
+    "quote": "purpose doesn’t care how you feel.",
+    "author": "Kaelis Thorn",
+    "tags": [
+      "growth",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0573",
+    "quote": "avoidance grows in the places you avoid looking.",
+    "author": "Seraphine Vale",
+    "tags": [
+      "success",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0574",
+    "quote": "comfort doesn’t care how you feel.",
+    "author": "Sabina Nyx",
+    "tags": [
+      "purpose",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0575",
+    "quote": "You become what you repeatedly chaos.",
+    "author": "Darius Nyx",
+    "tags": [
+      "fear",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0576",
+    "quote": "resistance is a mirror of comfort.",
+    "author": "Marcus Thorn",
+    "tags": [
+      "mindset",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0577",
+    "quote": "Discipline is choosing consistency over momentum.",
+    "author": "Aurelia Vale",
+    "tags": [
+      "success",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0578",
+    "quote": "courage is the cost of purpose.",
+    "author": "Tiberius Virex",
+    "tags": [
+      "action",
+      "mindset"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0579",
+    "quote": "clarity is just doubt with excuses removed.",
+    "author": "Solene Noctis",
+    "tags": [
+      "consistency",
+      "purpose"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0580",
+    "quote": "discipline is a decision, not a feeling.",
+    "author": "Marcellina Noctis",
+    "tags": [
+      "discipline",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0581",
+    "quote": "success is the cost of time.",
+    "author": "Solene Voss",
+    "tags": [
+      "consistency",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0582",
+    "quote": "discipline doesn’t care how you feel.",
+    "author": "Octavia Solis",
+    "tags": [
+      "fear",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0583",
+    "quote": "Your failure reveals your avoidance.",
+    "author": "Elara Voss",
+    "tags": [
+      "fear",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0584",
+    "quote": "pain grows when excuses is uncomfortable.",
+    "author": "Virelle Solis",
+    "tags": [
+      "creativity",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0585",
+    "quote": "standards is forged in silence and revealed in chaos.",
+    "author": "Marcus Halcyon",
+    "tags": [
+      "focus",
+      "confidence"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0586",
+    "quote": "success is forged in silence and revealed in chaos.",
+    "author": "Cassia Mirex",
+    "tags": [
+      "consistency",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "punchy",
+    "verified": false
+  },
+  {
+    "id": "q_0587",
+    "quote": "doubt is the cost of comfort.",
+    "author": "Valeria Halcyon",
+    "tags": [
+      "success",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0588",
+    "quote": "You’re not stuck, you’re avoiding habits.",
+    "author": "Quinn Solis",
+    "tags": [
+      "discipline",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0589",
+    "quote": "momentum is just habits with excuses removed.",
+    "author": "Seraphine Voss",
+    "tags": [
+      "identity",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0590",
+    "quote": "Ignore momentum long enough and it becomes avoidance.",
+    "author": "Lucius Veritas",
+    "tags": [
+      "resilience",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "aggressive",
+    "verified": false
+  },
+  {
+    "id": "q_0591",
+    "quote": "time is just momentum with excuses removed.",
+    "author": "Thessa Nyx",
+    "tags": [
+      "action",
+      "consistency"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0592",
+    "quote": "Comfort is the enemy of focus.",
+    "author": "Cassia Noctis",
+    "tags": [
+      "mindset",
+      "creativity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0593",
+    "quote": "purpose is forged in silence and revealed in chaos.",
+    "author": "Kaelis Noctis",
+    "tags": [
+      "focus",
+      "discipline"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0594",
+    "quote": "No one is coming to fix your attention.",
+    "author": "Lucia Voss",
+    "tags": [
+      "discipline",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0595",
+    "quote": "The shadow of energy is momentum.",
+    "author": "Seneca Caelum",
+    "tags": [
+      "creativity",
+      "growth"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  },
+  {
+    "id": "q_0596",
+    "quote": "You become what you repeatedly success.",
+    "author": "Lyric Aurex",
+    "tags": [
+      "fear",
+      "success"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0597",
+    "quote": "standards is just control stretched over time.",
+    "author": "Aurelia Umbra",
+    "tags": [
+      "resilience",
+      "identity"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "intense",
+    "verified": false
+  },
+  {
+    "id": "q_0598",
+    "quote": "resistance is not something you find, it’s something you build.",
+    "author": "Livia Caelum",
+    "tags": [
+      "consistency",
+      "focus"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "calm",
+    "verified": false
+  },
+  {
+    "id": "q_0599",
+    "quote": "discipline grows when excuses is uncomfortable.",
+    "author": "Kaelis Vale",
+    "tags": [
+      "fear",
+      "resilience"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "melancholic",
+    "verified": false
+  },
+  {
+    "id": "q_0600",
+    "quote": "If it costs your avoidance, it’s too expensive.",
+    "author": "Nyra Vale",
+    "tags": [
+      "purpose",
+      "fear"
+    ],
+    "source": "synthetic",
+    "year": 2026,
+    "tone": "philosophical",
+    "verified": false
+  }
+]
