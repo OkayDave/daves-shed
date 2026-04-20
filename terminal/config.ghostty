@@ -19,8 +19,8 @@ window-padding-y = 12
 window-save-state = always
 
 # --- Background vibes ---
-background-opacity = 0.5
-background-blur = 12
+background-opacity = 0.66
+background-blur = 14
 
 # --- Performance ---
 window-vsync = true

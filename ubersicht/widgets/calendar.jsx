@@ -85,6 +85,8 @@ export const className = `
     align-items: flex-start;
     border-left: 3px solid var(--event-accent, rgba(255,255,255,0.12));
     padding-left: 10px;
+    padding-right: 10px;
+    overflow: hidden;
   }
 
   .event-time {

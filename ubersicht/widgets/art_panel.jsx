@@ -110,14 +110,16 @@ const handleImageClick = async (event) => {
   const image = frame.querySelector('.image');
   const footer = frame.querySelector('.footer');
 
-  if (!image || !footer) return;
+  // if (!image || !footer) return;
   if (frame.dataset.loading === 'true') return;
 
   const originalFooter = footer.textContent;
   frame.dataset.loading = 'true';
 
   try {
-    footer.textContent = '…';
+    if(footer) {
+      footer.textContent = '…';
+    }
 
     const output = await run(nextImageCommand);
     const data = parseJson(output);

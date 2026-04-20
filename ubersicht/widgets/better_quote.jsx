@@ -32,7 +32,7 @@ const truncateQuote = (quote, maxLength = 280) => {
 
 const buildMeta = (data) => {
   const bits = [];
-  if (data && data.source && data.source.trim() !== "") bits.push(data.source.trim());
+  // if (data && data.source && data.source.trim() !== "") bits.push(data.source.trim());
   if (data && data.year) bits.push(String(data.year));
   return bits.join(" · ");
 };
@@ -226,6 +226,10 @@ export const className = `
   .error {
     ${errorBase}
   }
+  
+  .panel-topper {
+    display: none;
+  }
 `;
 
 export const render = (state, dispatch) => {
@@ -263,7 +267,7 @@ export const render = (state, dispatch) => {
 
   return (
     <div className="board">
-      <div className="row">
+      <div className="row panel-topper">
         <div className="label">Tone</div>
         <div
           className="value"
@@ -278,16 +282,12 @@ export const render = (state, dispatch) => {
 
       <div
         className={`quote-box ${state.isRefreshing ? "is-refreshing" : ""}`}
-        onClick={handleRefresh}
         style={{
           borderLeftColor: toneColour,
           background: `linear-gradient(180deg, rgba(0,0,0,0.16), rgba(0,0,0,0.22)), linear-gradient(90deg, ${accentGlow} 0%, rgba(0,0,0,0) 22%)`,
           boxShadow: `inset 0 0 0 1px rgba(255,255,255,0.01), 0 0 18px ${accentGlow}, 0 0 34px ${accentGlow}`,
         }}
       >
-        <div className="refresh-hint" style={{ color: toneColour }}>
-          refresh
-        </div>
 
         <div className="quote-content">
           <blockquote
