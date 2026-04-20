@@ -42,6 +42,15 @@ LAUNCHERS = [
       type: 'url',
       target: 'https://chatgpt.com'
     }
+  },
+  {
+    id: 'gmail',
+    label: 'GMail',
+    icon: '📩',
+    action: {
+      type: 'url',
+      target: 'https://gmail.com'
+    }
   }
 ].freeze
 

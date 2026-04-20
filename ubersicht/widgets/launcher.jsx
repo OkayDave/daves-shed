@@ -129,6 +129,6 @@ export const render = ({ output, error }) => {
       </div>
     );
   } catch (e) {
-    return <div className="error">Could not parse Launcher JSON</div>;
+    return <div className="error">Could not parse Launcher JSON.</div>;
   }
 };
