@@ -6,28 +6,29 @@ import {
   valueBase,
   errorBase,
   headlineBoxBase,
-} from './lib/styles';
-import { theme } from './lib/theme';
+} from "./lib/styles";
+import { theme } from "./lib/theme";
 
 const truncate = (value, max = 34) => {
-  if (!value) return '';
+  if (!value) return "";
   return value.length > max ? `${value.slice(0, max - 1)}…` : value;
 };
 
 const eventAccent = (event) => {
-  if (event?.is_now) return theme.accent?.playing || '#22c55e';
-  if (event?.is_upcoming) return theme.accent?.cloud || '#93c5fd';
-  return theme.accent?.idle || '#a1a1aa';
+  if (event?.is_now) return theme.accent?.playing || "#22c55e";
+  if (event?.is_upcoming) return theme.accent?.cloud || "#93c5fd";
+  return theme.accent?.idle || "#a1a1aa";
 };
 
 export const command = `zsh -l -c 'ruby "../scripts/calendar.rb"'`;
 export const refreshFrequency = 60_000; // 1 minute
 
 export const className = `
-  top: 260px;
+  top: 240px;
   right: 446px;
   width: 390px;
   min-height: 280px;
+  height: 660px;
   ${panelBase}
 
   .board {
@@ -157,7 +158,7 @@ export const render = ({ output, error }) => {
     return <div className="error">Error: {String(error)}</div>;
   }
 
-  if (!output || output.trim() === '') {
+  if (!output || output.trim() === "") {
     return <div className="error">No data</div>;
   }
 
@@ -168,17 +169,17 @@ export const render = ({ output, error }) => {
       return (
         <div className="error">
           {data.error}
-          {data.detail ? `: ${data.detail}` : ''}
+          {data.detail ? `: ${data.detail}` : ""}
         </div>
       );
     }
 
     if (!data.summary?.has_events || !data.events?.length) {
-      const accent = theme.accent?.idle || '#a1a1aa';
+      const accent = theme.accent?.idle || "#a1a1aa";
       const emptyStyle = {
-        '--headline-accent': accent,
-        '--headline-tint': `${accent}14`,
-        '--headline-border': `${accent}33`,
+        "--headline-accent": accent,
+        "--headline-tint": `${accent}14`,
+        "--headline-border": `${accent}33`,
       };
 
       return (
@@ -194,20 +195,22 @@ export const render = ({ output, error }) => {
 
           <div className="empty-state" style={emptyStyle}>
             <div className="empty-title">Nothing booked</div>
-            <div className="empty-copy">You appear to have a rare free day.</div>
+            <div className="empty-copy">
+              You appear to have a rare free day.
+            </div>
           </div>
         </div>
       );
     }
 
     const headlineAccent = data.summary?.next_is_now
-      ? (theme.accent?.playing || '#22c55e')
-      : (theme.accent?.cloud || '#93c5fd');
+      ? theme.accent?.playing || "#22c55e"
+      : theme.accent?.cloud || "#93c5fd";
 
     const headlineStyle = {
-      '--headline-accent': headlineAccent,
-      '--headline-tint': `${headlineAccent}14`,
-      '--headline-border': `${headlineAccent}33`,
+      "--headline-accent": headlineAccent,
+      "--headline-tint": `${headlineAccent}14`,
+      "--headline-border": `${headlineAccent}33`,
     };
 
     return (
@@ -215,7 +218,9 @@ export const render = ({ output, error }) => {
         <div className="headline" style={headlineStyle}>
           <div className="headline-top">
             <div className="headline-title">Today</div>
-            <div className="headline-badge">{data.summary.count} event{data.summary.count === 1 ? '' : 's'}</div>
+            <div className="headline-badge">
+              {data.summary.count} event{data.summary.count === 1 ? "" : "s"}
+            </div>
           </div>
 
           <div className="headline-date">{data.date.label}</div>
@@ -225,19 +230,23 @@ export const render = ({ output, error }) => {
               ? data.summary.next_is_now
                 ? `Now: ${truncate(data.summary.next_title, 42)}`
                 : `Next: ${data.summary.next_start} — ${truncate(data.summary.next_title, 36)}`
-              : 'Nothing else scheduled'}
+              : "Nothing else scheduled"}
           </div>
         </div>
 
         <div className="events">
           {data.events.map((event, index) => {
             const accent = eventAccent(event);
-            const style = { '--event-accent': accent };
+            const style = { "--event-accent": accent };
 
             return (
-              <div className="event-row" style={style} key={`${event.start_timestamp}-${index}`}>
+              <div
+                className="event-row"
+                style={style}
+                key={`${event.start_timestamp}-${index}`}
+              >
                 <div className="event-time">
-                  {event.all_day ? 'All day' : event.start}
+                  {event.all_day ? "All day" : event.start}
                 </div>
 
                 <div className="event-main">

@@ -1,4 +1,4 @@
-import { run } from 'uebersicht';
+import { run } from "uebersicht";
 import {
   panelBase,
   boardBase,
@@ -7,53 +7,53 @@ import {
   valueBase,
   errorBase,
   headlineBoxBase,
-} from './lib/styles';
-import { theme } from './lib/theme';
+} from "./lib/styles";
+import { theme } from "./lib/theme";
 
-const accentForState = (state = '') => {
+const accentForState = (state = "") => {
   switch (state) {
-    case 'running':
-      return theme.accent?.playing || '#22c55e';
-    case 'paused':
-      return theme.accent?.paused || '#f59e0b';
-    case 'done':
-      return theme.colours?.crimson || '#dc2626';
+    case "running":
+      return theme.accent?.playing || "#22c55e";
+    case "paused":
+      return theme.accent?.paused || "#f59e0b";
+    case "done":
+      return theme.colours?.crimson || "#dc2626";
     default:
-      return theme.accent?.idle || '#a1a1aa';
+      return theme.accent?.idle || "#a1a1aa";
   }
 };
 
-const iconForState = (state = '') => {
+const iconForState = (state = "") => {
   switch (state) {
-    case 'running':
-      return '●';
-    case 'paused':
-      return '❚❚';
-    case 'done':
-      return '!';
+    case "running":
+      return "●";
+    case "paused":
+      return "❚❚";
+    case "done":
+      return "!";
     default:
-      return '○';
+      return "○";
   }
 };
 
-const labelForState = (state = '') => {
+const labelForState = (state = "") => {
   switch (state) {
-    case 'running':
-      return 'Focus';
-    case 'paused':
-      return 'Paused';
-    case 'done':
-      return 'Done';
+    case "running":
+      return "Focus";
+    case "paused":
+      return "Paused";
+    case "done":
+      return "Done";
     default:
-      return 'Idle';
+      return "Idle";
   }
 };
 
 const formatTime = (seconds) => {
   const total = Math.max(0, Math.floor(seconds || 0));
   const mins = Math.floor(total / 60);
-  const secs = String(total % 60).padStart(2, '0');
-  return `${String(mins).padStart(2, '0')}:${secs}`;
+  const secs = String(total % 60).padStart(2, "0");
+  return `${String(mins).padStart(2, "0")}:${secs}`;
 };
 
 const buttonAction = (command) =>
@@ -70,6 +70,7 @@ export const className = `
   right: 446px;
   width: 390px;
   min-height: 320px;
+  display: none;
   ${panelBase}
 
   .board {
@@ -101,7 +102,7 @@ export const className = `
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 0.14em;
-    color: var(--headline-accent, ${theme.accent?.fallback || '#5eead4'});
+    color: var(--headline-accent, ${theme.accent?.fallback || "#5eead4"});
   }
 
   .timer {
@@ -133,10 +134,10 @@ export const className = `
     width: var(--progress-width, 0%);
     background: linear-gradient(
       90deg,
-      var(--headline-accent, ${theme.accent?.fallback || '#5eead4'}),
+      var(--headline-accent, ${theme.accent?.fallback || "#5eead4"}),
       rgba(255, 255, 255, 0.65)
     );
-    box-shadow: 0 0 14px var(--headline-accent, ${theme.accent?.fallback || '#5eead4'});
+    box-shadow: 0 0 14px var(--headline-accent, ${theme.accent?.fallback || "#5eead4"});
     border-radius: 999px;
   }
 
@@ -204,7 +205,7 @@ export const render = ({ output, error }) => {
     return <div className="error">Error: {String(error)}</div>;
   }
 
-  if (!output || output.trim() === '') {
+  if (!output || output.trim() === "") {
     return <div className="error">No data</div>;
   }
 
@@ -215,17 +216,17 @@ export const render = ({ output, error }) => {
       return (
         <div className="error">
           {data.error}
-          {data.detail ? `: ${data.detail}` : ''}
+          {data.detail ? `: ${data.detail}` : ""}
         </div>
       );
     }
 
     const accent = accentForState(data.state);
     const headlineStyle = {
-      '--headline-accent': accent,
-      '--headline-tint': `${accent}14`,
-      '--headline-border': `${accent}33`,
-      '--progress-width': `${data.progress_percent || 0}%`,
+      "--headline-accent": accent,
+      "--headline-tint": `${accent}14`,
+      "--headline-border": `${accent}33`,
+      "--progress-width": `${data.progress_percent || 0}%`,
     };
 
     const stateLabel = labelForState(data.state);
@@ -236,14 +237,16 @@ export const render = ({ output, error }) => {
         <div className="headline" style={headlineStyle}>
           <div className="headline-top">
             <div className="headline-title">Focus</div>
-            <div className="headline-badge">{stateIcon} {stateLabel}</div>
+            <div className="headline-badge">
+              {stateIcon} {stateLabel}
+            </div>
           </div>
 
           <div className="timer">{formatTime(data.remaining_seconds)}</div>
 
           <div className="mode-line">
-            {data.state === 'done'
-              ? 'Session complete'
+            {data.state === "done"
+              ? "Session complete"
               : `${formatTime(data.elapsed_seconds)} elapsed`}
           </div>
 
@@ -253,38 +256,41 @@ export const render = ({ output, error }) => {
         </div>
 
         <div className="controls">
-          <div
-            className="button"
-            onClick={() => run(buttonAction('start'))}
-          >
+          <div className="button" onClick={() => run(buttonAction("start"))}>
             Start
           </div>
 
           <div
             className="button"
             onClick={() =>
-              run(buttonAction(data.state === 'paused' ? 'resume' : 'pause'))
+              run(buttonAction(data.state === "paused" ? "resume" : "pause"))
             }
           >
-            {data.state === 'paused' ? 'Resume' : 'Pause'}
+            {data.state === "paused" ? "Resume" : "Pause"}
           </div>
 
-          <div
-            className="button"
-            onClick={() => run(buttonAction('reset'))}
-          >
+          <div className="button" onClick={() => run(buttonAction("reset"))}>
             Reset
           </div>
         </div>
 
         <div className="presets">
-          <div className="button button-muted" onClick={() => run(presetAction(25 * 60))}>
+          <div
+            className="button button-muted"
+            onClick={() => run(presetAction(25 * 60))}
+          >
             25m
           </div>
-          <div className="button button-muted" onClick={() => run(presetAction(50 * 60))}>
+          <div
+            className="button button-muted"
+            onClick={() => run(presetAction(50 * 60))}
+          >
             50m
           </div>
-          <div className="button button-muted" onClick={() => run(presetAction(10 * 60))}>
+          <div
+            className="button button-muted"
+            onClick={() => run(presetAction(10 * 60))}
+          >
             10m
           </div>
         </div>
@@ -298,10 +304,10 @@ export const render = ({ output, error }) => {
           <div className="label">Sound</div>
           <div
             className="value"
-            style={{ cursor: 'pointer' }}
-            onClick={() => run(buttonAction('toggle_sound'))}
+            style={{ cursor: "pointer" }}
+            onClick={() => run(buttonAction("toggle_sound"))}
           >
-            {data.sound_enabled ? 'On' : 'Off'}
+            {data.sound_enabled ? "On" : "Off"}
           </div>
         </div>
       </div>
