@@ -44,7 +44,38 @@ eval "$(zoxide init zsh)"
 alias ls="eza -1 --long -T --colour=always --all --icons --git --level=1"
 alias awsli="aws sso login --sso-session aws"
 alias awslc="aws eks list-clusters --profile"
-alias cd="z"
+alias prodon="_kube_prod_colour_on"
+alias prodoff="_kube_prod_colour_off"
+
+function cd() {
+  local new_dir
+  local -a cmd=(z)
+  [[ $# -gt 0 ]] && cmd+=("$@")
+  z $@
+
+  if [[ -f .zshrc ]]; then
+    source .zshrc
+  fi
+
+  if [[ -f .env ]]; then
+    source .env
+  fi
+
+  if [[ -f .env.development ]]; then
+    source .env.development
+  fi
+
+  if [[ -f .tool-versions ]]; then
+    while IFS=' ' read -r plugin version; do
+      echo "Doing ${IFS}"
+      [[ -z "$plugin" || "$plugin" == \#* ]] && continue
+      if ! asdf list "$plugin" 2>/dev/null | grep -qx "$version"; then
+        echo "installing \"$plugin\" \"$version\""
+        asdf install "$plugin" "$version" || true
+      fi
+    done < .tool-versions
+  fi
+}
 alias prodon="_kube_prod_colour_on"
 alias prodoff="_kube_prod_colour_off"
 
@@ -53,6 +84,7 @@ alias prodoff="_kube_prod_colour_off"
 # =========================
 get_in ".zsh/file-helpers.zsh"
 get_in ".zsh/kube-helpers.zsh"
+get_in ".zsh/git-helpers.zsh"
 
 # =========================
 # COMPLETIONS

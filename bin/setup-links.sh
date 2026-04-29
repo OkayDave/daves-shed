@@ -15,6 +15,13 @@ BARTENDER_CONFIG_DIR="$HOME/Library/Application Support/Bartender 5"
 
 # Function to create a symlink with backup
 create_link() {
+  local rebuild=false
+
+  if [ "$1" = "--rebuild" ]; then
+    rebuild=true
+    shift
+  fi
+
   local src="$1"
   local dest="$2"
 
@@ -24,12 +31,22 @@ create_link() {
   fi
 
   if [ -L "$dest" ]; then
-    echo "Symlink already exists for $dest. Removing and recreating."
-    rm "$dest"
+    if [ "$rebuild" = true ]; then
+      echo "Symlink already exists for $dest. Removing and recreating."
+      rm "$dest"
+    else
+      echo "Symlink already exists for $dest. Skipping."
+      return
+    fi
   elif [ -e "$dest" ]; then
-    local backup="${dest}.bak.$(date +%Y%m%d%H%M%S)"
-    echo "Backing up existing $dest to $backup"
-    mv "$dest" "$backup"
+    if [ "$rebuild" = true ]; then
+      local backup="${dest}.bak.$(date +%Y%m%d%H%M%S)"
+      echo "Backing up existing $dest to $backup"
+      mv "$dest" "$backup"
+    else
+      echo "Target $dest already exists. Skipping."
+      return
+    fi
   fi
 
   echo "Creating symlink: $dest -> $src"
