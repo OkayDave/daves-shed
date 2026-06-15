@@ -28,7 +28,7 @@ export const className = `
   right: 446px;
   width: 390px;
   min-height: 280px;
-  height: 660px;
+  height: 753px;
   ${panelBase}
 
   .board {

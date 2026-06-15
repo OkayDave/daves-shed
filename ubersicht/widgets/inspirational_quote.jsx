@@ -11,13 +11,14 @@ import { theme } from './lib/theme';
 export const command = `zsh -l -c 'ruby "../scripts/inspirational_quote.rb"'`;
 // export const command = `zsh -l -c 'which ruby'`;
 
-export const refreshFrequency = 600000; // 10 minutes
+export const refreshFrequency = false; // 10 minutes
 
 export const className = `
   top: 260px;
   right: 28px;
   width: 390px;
   height: 275px;
+  display: none;
   ${panelBase}
 
   .board {

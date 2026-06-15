@@ -299,10 +299,10 @@ kcpfrom() {
   _kube_require_pod || return 1
 
   local remote_path="$1"
-  local local_path="$2"
+  local local_path="${2:-$1}"
 
-  if [[ -z "$remote_path" || -z "$local_path" ]]; then
-    echo "Usage: kcpfrom <remote-path-in-pod> <local-path>" >&2
+  if [[ -z "$remote_path" ]]; then
+    echo "Usage: kcpfrom <remote-path-in-pod> [local-path]" >&2
     return 1
   fi
 
@@ -318,10 +318,10 @@ kcpto() {
   _kube_require_pod || return 1
 
   local local_path="$1"
-  local remote_path="$2"
+  local remote_path="${2:-$1}"
 
-  if [[ -z "$local_path" || -z "$remote_path" ]]; then
-    echo "Usage: kcpto <local-path> <remote-path-in-pod>" >&2
+  if [[ -z "$local_path" ]]; then
+    echo "Usage: kcpto <local-path> [remote-path-in-pod]" >&2
     return 1
   fi
 

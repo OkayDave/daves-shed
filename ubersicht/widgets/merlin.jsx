@@ -9,32 +9,34 @@ import {
 import { theme } from './lib/theme';
 import { run } from 'uebersicht';
 
-export const command = `zsh -l -c 'ruby "../scripts/better_quote.rb" | jq'`;
+export const command = `zsh -l -c 'ruby "../scripts/merlin.rb" | jq'`;
 
-export const refreshFrequency = false; // 5 minutes
+export const refreshFrequency = 120000; // 2 minutes
 
-const toneColours = {
-  aggressive: "#ff4d4d",
-  calm: "#4dd0e1",
-  philosophical: "#c5c6c7",
-  intense: "#ff6b6b",
-  melancholic: "#9aa0a6",
-  punchy: "#ffd166",
+const registerColours = {
+  oracle: "#9cec97",     // philosophical/grey
+  insightful: "#4dd0e1",  // calm/cyan
+  menacing: "#ff4d4d",    // aggressive/red
+  manifesto: "purple",   // intense/coral
+  petty: "#ffd166",       // punchy/yellow
 };
 
-const fallbackToneColour = "rgba(255, 217, 142, 0.85)";
+const fallbackRegisterColour = "rgba(255, 217, 142, 0.85)";
 
-const truncateQuote = (quote, maxLength = 280) => {
-  if (!quote) return "No quote available";
-  const trimmed = quote.trim();
+const truncateAphorism = (aphorism, maxLength = 280) => {
+  if (!aphorism) return "No aphorism available";
+  const trimmed = aphorism.trim();
   if (trimmed.length <= maxLength) return trimmed;
   return `${trimmed.slice(0, maxLength).trimEnd()}…`;
 };
 
 const buildMeta = (data) => {
   const bits = [];
-  // if (data && data.source && data.source.trim() !== "") bits.push(data.source.trim());
-  if (data && data.year) bits.push(String(data.year));
+  if (data && data.theme && data.theme.trim() !== "") {
+    bits.push("· On " + data.theme.trim());
+
+  }
+  // if (data && data.motifs && data.motifs.trim() !== "") bits.push(data.motifs.trim());
   return bits.join(" · ");
 };
 
@@ -76,7 +78,7 @@ export const updateState = (event, previousState) => {
   } catch (e) {
     return {
       ...previousState,
-      error: `Could not parse Quote JSON: ${event.output}`,
+      error: `Could not parse Merlin JSON: ${event.output}`,
       isRefreshing: false,
     };
   }
@@ -87,7 +89,6 @@ export const className = `
   right: 28px;
   width: 390px;
   height: 275px;
-  display: none;
   ${panelBase}
 
   .board {
@@ -252,12 +253,12 @@ export const render = (state, dispatch) => {
   }
 
   const data = state.data;
-  const tone = ((data.tone || "").trim().toLowerCase());
-  const toneColour = toneColours[tone] || fallbackToneColour;
+  const register = ((data.register || "").trim().toLowerCase());
+  const registerColour = registerColours[register] || fallbackRegisterColour;
   const meta = buildMeta(data);
-  const quote = truncateQuote(data.quote, 280);
-  const accentGlow = `${toneColour}22`;
-  const accentGlowStrong = `${toneColour}44`;
+  const aphorism = truncateAphorism(data.aphorism, 280);
+  const accentGlow = `${registerColour}22`;
+  const accentGlowStrong = `${registerColour}44`;
 
   const handleRefresh = () => {
     dispatch({ type: "MANUAL_REFRESH_START" });
@@ -272,15 +273,15 @@ export const render = (state, dispatch) => {
   return (
     <div className="board">
       <div className="row panel-topper">
-        <div className="label">Tone</div>
+        <div className="label">Register</div>
         <div
           className="value"
           style={{
-            color: toneColour,
+            color: registerColour,
             textShadow: `0 0 10px ${accentGlowStrong}`,
           }}
         >
-          {data.tone || "unknown"}
+          {data.register || "unknown"}
         </div>
       </div>
 
@@ -288,12 +289,12 @@ export const render = (state, dispatch) => {
         className={`quote-box ${state.isRefreshing ? "is-refreshing" : ""}`}
         onClick={handleRefresh}
         style={{
-          borderLeftColor: toneColour,
+          borderLeftColor: registerColour,
           background: `linear-gradient(180deg, rgba(0,0,0,0.16), rgba(0,0,0,0.22)), linear-gradient(90deg, ${accentGlow} 0%, rgba(0,0,0,0) 22%)`,
           boxShadow: `inset 0 0 0 1px rgba(255,255,255,0.01), 0 0 18px ${accentGlow}, 0 0 34px ${accentGlow}`,
         }}
       >
-        <div className="refresh-hint" style={{ color: toneColour }}>Refresh</div>
+        <div className="refresh-hint" style={{ color: registerColour }}>Refresh</div>
 
         <div className="quote-content">
           <blockquote
@@ -303,7 +304,7 @@ export const render = (state, dispatch) => {
               textShadow: `${theme.effects.textGlow}, 0 0 14px ${accentGlow}`,
             }}
           >
-            “{quote}”
+            “{aphorism}”
           </blockquote>
         </div>
 
@@ -311,11 +312,11 @@ export const render = (state, dispatch) => {
           <span
             className="quote-author"
             style={{
-              color: toneColour,
+              color: registerColour,
               textShadow: `0 0 10px ${accentGlowStrong}`,
             }}
           >
-            {data.author ? data.author.trim() : "Unknown"}
+            Merlin
           </span>
 
           {meta && (

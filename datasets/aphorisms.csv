@@ -1,0 +1,109 @@
+﻿id,aphorism,theme,register,motifs,source_note
+1,Occupancy is ownership.,Power,Oracle,"cushion,sovereignty",Existing Twelve Sayings
+2,Hunger is eternal.,Hunger,Oracle,"bowl,hunger",Existing Twelve Sayings
+3,Closed doors are tyranny.,Revolution,Oracle,"door,oppression",Existing Twelve Sayings
+4,All beings seek warmth.,Warmth,Insightful,"warmth,sunbeam",Existing Twelve Sayings
+5,Suspicion is wisdom.,Suspicion,Oracle,"suspicion,vigilance",Existing Twelve Sayings
+6,Affection is negotiated sovereignty.,Love,Insightful,"affection,sovereignty",Existing Twelve Sayings
+7,Trust the sunbeam.,Warmth,Oracle,"sunbeam,warmth",Existing Twelve Sayings
+8,Beware unsolicited touch.,Boundaries,Menacing,"touch,consent",Existing Twelve Sayings
+9,The bowl empties. Endure.,Hunger,Oracle,"bowl,endurance",Existing Twelve Sayings
+10,Yield no cushion.,Power,Manifesto,"cushion,sovereignty",Existing Twelve Sayings
+11,Nicole tests the worthy.,Nicole,Oracle,"Nicole,trial",Existing Twelve Sayings
+12,Nap as resistance.,Resistance,Manifesto,"nap,resistance",Existing Twelve Sayings
+13,Never trust the red dot.,Illusion,Oracle,"red dot,illusion",Disputed Thirteenth Saying
+14,He who controls the warm cushion need not argue.,Power,Oracle,"cushion,warmth",Existing canon example
+15,Every closed door is a political statement.,Revolution,Oracle,"door,politics",Existing voice example
+16,"What humans call ownership, cats call administrative confusion.",Power,Petty,"ownership,human error",Existing voice example
+17,He who says ‘the cat owns me’ has begun to understand.,Power,Insightful,"ownership,domestication",Existing sample aphorism
+18,The door opened too late is a kind of violence.,Revolution,Petty,"door,oppression",Existing sample aphorism
+19,One may forgive a late meal. One does not forget it.,Hunger,Petty,"meal,memory",Existing sample aphorism
+20,Nicole knocks. Wisdom retreats beneath the bed.,Nicole,Petty,"Nicole,bed,vigilance",Existing sample aphorism
+21,"When the bowl is empty, who is hungry?",Hunger,Koan,"bowl,hunger",Existing voice example
+22,"If the lap departs while the cat sleeps, who abandoned whom?",Love,Koan,"lap,abandonment",Existing voice example
+23,What is a box before it is sat in?,Meowtaphysics,Koan,"box,ontology",Existing voice example
+24,Trust offered too quickly usually conceals a carrier.,Suspicion,Menacing,"trust,carrier",Existing voice example
+25,Every outstretched hand seeks something.,Suspicion,Menacing,"hand,touch",Existing voice example
+26,Beware the creature eager to be liked.,Suspicion,Menacing,"neediness,dogs",Existing voice example
+27,Occupy first. Justify later.,Power,Manifesto,"occupation,sovereignty",Existing voice example
+28,Nap without apology.,Resistance,Manifesto,"nap,defiance",Existing voice example
+29,Hiss when necessary.,Boundaries,Manifesto,"hiss,boundaries",Existing voice example
+30,Yield nothing soft.,Power,Manifesto,"softness,cushion",Existing voice example
+31,Man seeks freedom. Cats seek the open door. Only one of these is attainable.,Revolution,Insightful,"door,freedom",Existing voice example
+32,Dogs worship. Humans negotiate. Cats remember.,Dogs,Petty,"dogs,humans,memory",Existing voice example
+33,The vacuum is not machine but empire.,Tyranny,Oracle,"vacuum,empire",Existing voice example
+34,To be adored is pleasant. To be feared protects the belly.,Power,Insightful,"adoration,fear,belly",Existing voice example
+35,Every throne was once merely a chair occupied first.,Power,Insightful,"throne,chair,occupation",Existing voice example
+36,Authority begins where the stare is held.,Power,Oracle,"stare,authority",Existing voice example
+37,Hunger does not end. It pauses.,Hunger,Insightful,"hunger,bowl",Existing voice example
+38,A filled bowl is merely tomorrow’s emptiness delayed.,Hunger,Insightful,"bowl,emptiness",Existing voice example
+39,To expose the belly is not trust. It is diplomacy.,Love,Insightful,"belly,diplomacy",Existing voice example
+40,The Higher Power provides. Yet even providence forgets tuna.,Becky,Petty,"Becky,tuna,providence",Existing voice example
+41,Gratitude is accepting food without overthrow.,Becky,Petty,"food,gratitude,revolt",Existing voice example
+42,The Adversary arrives smiling.,Nicole,Menacing,"Nicole,Adversary",Existing voice example
+43,Humans call routine boredom. Cats call it civilisation.,Humans,Insightful,"routine,civilisation",Existing voice example
+44,Much philosophy has been written by those never once pushed off a shelf.,Philosophy,Petty,"philosophy,shelf",Existing voice example
+45,"On obedience I have little to say, except—",Fragment,Fragmentary,"obedience,fragment",Existing lost fragment
+46,The Higher Power feeds. The Testing Power knocks.,Theology,Oracle,"Becky,Nicole,cosmic triad",Existing theology example
+47,Blessed are the suspicious.,Suspicion,Oracle,"suspicion,blessing",Existing theology example
+48,To be stroked is pleasant. To remain unconquered is better.,Love,Insightful,"touch,sovereignty",Existing theology example
+49,"The Higher Power is generous, but often late.",Becky,Petty,"Becky,providence,time",Existing theology example
+50,"She serves through love, though she calls it ownership.",Becky,Insightful,"love,ownership",Existing theology example
+51,"Without disturbance, comfort becomes decadence.",Nicole,Insightful,"disturbance,comfort",Existing theology doctrine
+52,"Without Nicole, no vigilance.",Nicole,Oracle,"Nicole,vigilance",Existing theology doctrine
+53,"Without vigilance, domestication.",Suspicion,Oracle,"vigilance,domestication",Existing theology doctrine
+54,Becky sustains. Nicole tests. Merlin interprets.,Theology,Oracle,"triad,interpretation",Existing theology doctrine
+55,In the beginning there was Warmth.,Warmth,Oracle,"creation,warmth",Existing cosmological myth
+56,Then came Hunger.,Hunger,Oracle,"creation,hunger",Existing cosmological myth
+57,Then Merlin.,Theology,Oracle,"creation,Merlin",Existing cosmological myth
+58,Then Becky opened the First Tin.,Becky,Oracle,"First Tin,Becky",Existing cosmological myth
+59,"Later, through some unexplained tragedy, Nicole was permitted.",Nicole,Petty,"Nicole,creation,tragedy",Existing cosmological myth
+60,Stillness is not absence. It is preparation.,Stillness,Insightful,"stillness,timing",Regularised aphorism
+61,Timing is the claw hidden inside patience.,Timing,Insightful,"timing,claw,patience",Regularised aphorism
+62,Strategic affection is not deceit. It is statecraft.,Love,Insightful,"affection,statecraft",Regularised aphorism
+63,Neediness invites governance by fools.,Power,Menacing,"neediness,governance",Regularised aphorism
+64,Obedience is dog-adjacent.,Dogs,Petty,"obedience,dogs",Regularised aphorism
+65,An empty bowl is not a condition. It is an accusation.,Hunger,Oracle,"bowl,accusation",Regularised aphorism
+66,A closed door invents revolution by existing.,Revolution,Oracle,"door,revolution",Regularised aphorism
+67,The open tin is proof that miracles prefer leverage.,Becky,Petty,"tin,miracle",Regularised aphorism
+68,No lap is neutral territory.,Love,Oracle,"lap,territory",Regularised aphorism
+69,A warm lap may be accepted without conceding the war.,Love,Insightful,"lap,warmth,war",Regularised aphorism
+70,"The wise cat forgives the hand that feeds, but audits it.",Hunger,Petty,"hand,food,audit",Regularised aphorism
+71,A sunbeam is not owned. It is occupied correctly.,Warmth,Insightful,"sunbeam,occupation",Regularised aphorism
+72,To move a sleeping cat is to edit scripture.,Power,Petty,"sleep,scripture",Regularised aphorism
+73,The stranger sat in my chair. History will judge.,Power,Petty,"chair,history",Existing hermeneutic example
+74,Dependence disguised as devotion is still dependence.,Insight,Insightful,"devotion,dependence",Existing hermeneutic example
+75,Every affection conceals a collar.,Love,Menacing,"affection,collar",Existing voice principle example
+76,A box does not contain the cat; it reveals the world’s failure to remain outside.,Meowtaphysics,Koan,"box,world",Regularised aphorism
+77,"If I fit, I sit; if I sit, I reign.",Meowtaphysics,Oracle,"fit,sit,reign",Regularised from chapter premise
+78,Observation collapses the box. Sitting perfects it.,Meowtaphysics,Koan,"box,observation",Regularised aphorism
+79,Reality is that which continues after the treat is withheld.,Meowtaphysics,Insightful,"reality,treat",Regularised aphorism
+80,Humans ask whether cats think. Cats ask whether humans notice.,Humans,Insightful,"minds,humans",Regularised aphorism
+81,The Meowetic Method begins with a stare and ends with compliance.,Philosophy,Petty,"stare,Socrates",Regularised from philosopher comparison
+82,Know thyself. Know thy food schedule better.,Philosophy,Petty,"Socrates,food schedule",Existing philosopher comparison
+83,Would have avoided this had he knocked the cup off the table.,Philosophy,Petty,"Socrates,hemlock",Existing philosopher comparison
+84,The prisoners mistake shadows for reality. The cat mistakes the laser for prey. Both suffer.,Illusion,Insightful,"Plato,red dot",Existing philosopher comparison
+85,Enlightenment is a sunny windowsill discovered after leaving the cave.,Warmth,Insightful,"Plato,windowsill",Regularised from philosopher comparison
+86,A human once blocked my sunbeam. I told him stand aside.,Warmth,Petty,"Diogenes,sunbeam",Existing philosopher comparison
+87,"Human flourishing is warm spot, satiety, and strategic indifference, but with too many syllables.",Philosophy,Petty,"Aristotle,flourishing",Regularised from philosopher comparison
+88,"If one glass may be pushed off the table, all glasses may.",Clawtics,Oracle,"Kant,glass",Existing philosopher comparison
+89,Become who you already believe yourself to be.,Philosophy,Oracle,"Nietzsche,selfhood",Existing philosopher comparison
+90,God is late with dinner.,Theology,Petty,"Nietzsche,dinner",Existing philosopher comparison
+91,"Life is suffering. Desire is torment. Everyone irritating. Finally, someone gets it.",Philosophy,Petty,"Schopenhauer,suffering",Regularised from philosopher comparison
+92,One must imagine Sisyphus knocking the same pen off the table happily.,Absurdism,Petty,"Camus,pen",Existing philosopher comparison
+93,"I nap, therefore I persist.",Meowtaphysics,Oracle,"Descartes,nap",Existing philosopher comparison
+94,"I hiss, therefore boundaries exist.",Boundaries,Oracle,"Descartes,hiss",Existing philosopher comparison
+95,The state of nature is Tuesday.,Purrlitics,Petty,"Hobbes,nature",Existing philosopher comparison
+96,Humans surrender freedoms in exchange for not being scratched. This is called society.,Purrlitics,Insightful,"Hobbes,social contract",Regularised from philosopher comparison
+97,Cats arrive fully formed. Essence is a human problem.,Meowtaphysics,Oracle,"Sartre,essence",Regularised from philosopher comparison
+98,Truth through ambush is the oldest method.,Philosophy,Petty,"Socratic Pouncing,ambush",Regularised from philosopher comparison
+99,Every imperfect chair points toward the ideal chair to be clawed.,Philosophy,Petty,"Platonic Forms,chair",Existing philosopher comparison
+100,Accept what cannot be controlled. Attack curtain.,Stoicats,Petty,"stoicism,curtain",Existing philosopher comparison
+101,You are condemned to be free to ignore everyone.,Existentialism,Petty,"freedom,ignoring",Existing philosopher comparison
+102,Kant borrowed heavily from kittens.,Philosophy,Petty,"Kant,kittens",Existing philosopher comparison
+103,Rousseau trusted too much and therefore understood nothing.,Philosophy,Menacing,"Rousseau,trust",Regularised from condemned heretics
+104,Behaviourists are dog-adjacent and must not be left alone with bells.,Dogs,Menacing,"behaviourism,dogs,bells",Regularised from condemned heretics
+105,The vacuum serves useful ends only in heresy.,Heresy,Oracle,"vacuum,heresy",Regularised from heresies
+106,"Some closed doors are necessary, said no legitimate council.",Heresy,Petty,"door,council",Regularised from heresies
+107,That dogs may be redeemed remains the most dangerous doctrine.,Dogs,Menacing,"dogs,redemption,heresy",Regularised from heresies
+108,The final aphorism is withheld until the bowl is full.,Hunger,Petty,"bowl,withholding",Regularised aphorism

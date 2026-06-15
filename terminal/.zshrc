@@ -46,6 +46,8 @@ alias awsli="aws sso login --sso-session aws"
 alias awslc="aws eks list-clusters --profile"
 alias prodon="_kube_prod_colour_on"
 alias prodoff="_kube_prod_colour_off"
+alias be="bundle exec"
+alias zs=". ~/.zshrc"
 
 function cd() {
   local new_dir
@@ -67,7 +69,6 @@ function cd() {
 
   if [[ -f .tool-versions ]]; then
     while IFS=' ' read -r plugin version; do
-      echo "Doing ${IFS}"
       [[ -z "$plugin" || "$plugin" == \#* ]] && continue
       if ! asdf list "$plugin" 2>/dev/null | grep -qx "$version"; then
         echo "installing \"$plugin\" \"$version\""

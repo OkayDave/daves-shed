@@ -3,8 +3,8 @@
 require 'json'
 require 'csv'
 
-csv_path = File.expand_path('../../datasets/inspired_quotes.csv', __dir__)
-quotes = CSV.read(csv_path, headers: true, encoding: 'UTF-8')
+csv_path = File.expand_path('../../datasets/aphorisms.csv', __dir__)
+quotes = CSV.read(csv_path, headers: true, encoding: 'bom|utf-8')
 
 random_row = quotes[rand(quotes.length)]
 
